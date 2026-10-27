@@ -16,3 +16,12 @@ Each post image is a branded composite (The Daily Vantage logo, headline and cre
 | [2026/10/27/2300-final.jpg](2026/10/27/2300-final.jpg) | [Building92microsoft.jpg](https://commons.wikimedia.org/wiki/File:Building92microsoft.jpg) | Coolcaesar | CC BY-SA 4.0 | 2016-05-30 |
 
 Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos (1300, 1500, 2300) are shared under CC BY-SA 4.0.
+
+## 2026-10-28
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/28/meta-forum-ai-moderation-final.jpg](2026/10/28/meta-forum-ai-moderation-final.jpg) | [Facebook App on Mobile Phone (46848249812).jpg](https://commons.wikimedia.org/wiki/File:Facebook_App_on_Mobile_Phone_(46848249812).jpg) | Tony Webster from Minneapolis, Minnesota, United States | CC BY 2.0 | 2019-01-05 |
+| [2026/10/28/youtube-custom-feeds-final.jpg](2026/10/28/youtube-custom-feeds-final.jpg) | [Youtube App Startup.JPG](https://commons.wikimedia.org/wiki/File:Youtube_App_Startup.JPG) | SCBY | CC BY-SA 4.0 | 2015-07-29 |
+
+Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text. The derivative of the CC BY-SA photo (youtube-custom-feeds) is shared under CC BY-SA 4.0.
