@@ -33,3 +33,11 @@ Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline
 | [2026/10/27/2300-oleshky-final.jpg](2026/10/27/2300-oleshky-final.jpg) | [Oleshky 01.jpg](https://commons.wikimedia.org/wiki/File:Oleshky_01.jpg) | Dmytro Petishkin | CC BY 4.0 | 2016-04-17 |
 
 Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text.
+
+## 2026-10-27 Reels
+
+| Video | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/27/1100-anthropic-ipo-reel.mp4](2026/10/27/1100-anthropic-ipo-reel.mp4) | [Dario Amodei in 2023.jpg](https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg) | Simon Walker / No 10 Downing Street (UK Prime Minister) | CC BY 2.0 | 2023-05-24 |
+
+Modifications: cropped to 1080x1920, animated (slow zoom/pan) and overlaid with branding, headline, text captions and credit; silent audio track.
