@@ -25,3 +25,11 @@ Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline
 | [2026/10/28/youtube-custom-feeds-final.jpg](2026/10/28/youtube-custom-feeds-final.jpg) | [Youtube App Startup.JPG](https://commons.wikimedia.org/wiki/File:Youtube_App_Startup.JPG) | SCBY | CC BY-SA 4.0 | 2015-07-29 |
 
 Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text. The derivative of the CC BY-SA photo (youtube-custom-feeds) is shared under CC BY-SA 4.0.
+
+## 2026-10-27 (3pm run addition)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/27/2300-oleshky-final.jpg](2026/10/27/2300-oleshky-final.jpg) | [Oleshky 01.jpg](https://commons.wikimedia.org/wiki/File:Oleshky_01.jpg) | Dmytro Petishkin | CC BY 4.0 | 2016-04-17 |
+
+Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text.
