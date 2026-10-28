@@ -62,3 +62,14 @@ Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline
 | [2026/10/28/1700-greenhouse-gas-reel.mp4](2026/10/28/1700-greenhouse-gas-reel.mp4) | [Pl23 wea03453 - Mauna Loa Observatory in 2006.jpg](https://commons.wikimedia.org/wiki/File:Pl23_wea03453_-_Mauna_Loa_Observatory_in_2006.jpg) | Forrest M. Mims III (NOAA Photo Library) | Public domain | 2006-05-29 |
 
 Modifications: cropped to 1080x1920, animated (slow zoom/pan, animated text, transitions) and overlaid with branding, headline, text captions and credits. Soundtrack and sound effects are original licensed audio from the brand audio library. The video is shared under CC BY-SA 4.0 because it adapts a CC BY-SA photo.
+
+## 2026-10-28 (11am run)
+
+| File | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/28/1615-final.jpg](2026/10/28/1615-final.jpg) | [Mark Zuckerberg (2025) (cropped).jpg](https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_(2025)_(cropped).jpg) | Jeff Sainlar, Meta | CC BY-SA 4.0 | 2025-09-23 |
+| [2026/10/28/2215-final.jpg](2026/10/28/2215-final.jpg) | [Flávio Bolsonaro em entrevista (3x4).jpg](https://commons.wikimedia.org/wiki/File:Fl%C3%A1vio_Bolsonaro_em_entrevista_(3x4).jpg) | Edilson Rodrigues / Agência Senado | CC BY 2.0 | 2022-05-12 |
+| [2026/10/28/1945-ebola-reel.mp4](2026/10/28/1945-ebola-reel.mp4) | [WHO in PPE.jpg](https://commons.wikimedia.org/wiki/File:WHO_in_PPE.jpg) | CDC Global | CC BY 2.0 | 2014-08-19 |
+| [2026/10/28/1945-ebola-reel.mp4](2026/10/28/1945-ebola-reel.mp4) | [Ebola virus Makona from West African Epidemic (43234028254).jpg](https://commons.wikimedia.org/wiki/File:Ebola_virus_Makona_from_West_African_Epidemic_(43234028254).jpg) | NIAID | CC BY 2.0 | 2018-05-01 |
+
+Modifications: images cropped/resized to 1080x1350 and overlaid with branding, headline and credit text; the Reel is cropped to 1080x1920, animated and overlaid with branding, text and credits, with original licensed audio from the brand audio library. The derivative of the CC BY-SA photo (1615) is shared under CC BY-SA 4.0.
