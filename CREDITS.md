@@ -41,3 +41,24 @@ Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline
 | [2026/10/27/1100-anthropic-ipo-reel.mp4](2026/10/27/1100-anthropic-ipo-reel.mp4) | [Dario Amodei in 2023.jpg](https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg) | Simon Walker / No 10 Downing Street (UK Prime Minister) | CC BY 2.0 | 2023-05-24 |
 
 Modifications: cropped to 1080x1920, animated (slow zoom/pan) and overlaid with branding, headline, text captions and credit; silent audio track.
+
+## 2026-10-28 (7am run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/28/1030-final.jpg](2026/10/28/1030-final.jpg) | [Israeli legislative election 2019 ballots (1).jpg](https://commons.wikimedia.org/wiki/File:Israeli_legislative_election_2019_ballots_(1).jpg) | Laliv g | CC BY-SA 4.0 | 2019-04-09 |
+| [2026/10/28/1300-final.jpg](2026/10/28/1300-final.jpg) | [Apple iPhone Duo.jpg](https://commons.wikimedia.org/wiki/File:Apple_iPhone_Duo.jpg) | SimonWaldherr | CC BY 4.0 | 2026-10-23 |
+| [2026/10/28/1415-final.jpg](2026/10/28/1415-final.jpg) | [James Comey official portrait.jpg](https://commons.wikimedia.org/wiki/File:James_Comey_official_portrait.jpg) | Federal Bureau of Investigation | Public domain | c. 2010-2013 |
+| [2026/10/28/1530-final.jpg](2026/10/28/1530-final.jpg) | [Pope Leo XIV 1.png](https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_1.png) | Edgar Beltrán, The Pillar | CC BY-SA 4.0 | 2025-05-12 |
+| [2026/10/28/2100-final.jpg](2026/10/28/2100-final.jpg) | [Waymo Jaguar I-Pace - Front Quarter View 01.jpg](https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_-_Front_Quarter_View_01.jpg) | 9yz | CC BY 4.0 | 2025-05-31 |
+
+Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos (1030, 1530) are shared under CC BY-SA 4.0.
+
+## 2026-10-28 Reels
+
+| Video | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/28/1700-greenhouse-gas-reel.mp4](2026/10/28/1700-greenhouse-gas-reel.mp4) | [Kohlekraftwerk Moorburg 2003-0072.jpg](https://commons.wikimedia.org/wiki/File:Kohlekraftwerk_Moorburg_2003-0072.jpg) | Mozzihh | CC BY-SA 4.0 | 2020-03-04 |
+| [2026/10/28/1700-greenhouse-gas-reel.mp4](2026/10/28/1700-greenhouse-gas-reel.mp4) | [Pl23 wea03453 - Mauna Loa Observatory in 2006.jpg](https://commons.wikimedia.org/wiki/File:Pl23_wea03453_-_Mauna_Loa_Observatory_in_2006.jpg) | Forrest M. Mims III (NOAA Photo Library) | Public domain | 2006-05-29 |
+
+Modifications: cropped to 1080x1920, animated (slow zoom/pan, animated text, transitions) and overlaid with branding, headline, text captions and credits. Soundtrack and sound effects are original licensed audio from the brand audio library. The video is shared under CC BY-SA 4.0 because it adapts a CC BY-SA photo.
