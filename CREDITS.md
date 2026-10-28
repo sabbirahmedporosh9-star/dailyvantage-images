@@ -83,3 +83,22 @@ Modifications: images cropped/resized to 1080x1350 and overlaid with branding, h
 | [2026/10/28/2300-final.jpg](2026/10/28/2300-final.jpg) | [Jio sim.jpg](https://commons.wikimedia.org/wiki/File:Jio_sim.jpg) | Jim Carter | CC BY-SA 3.0 | 2016-09-26 |
 
 Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text. The derivative of the CC BY-SA photo (2300) is shared under CC BY-SA 3.0.
+
+## 2026-10-28 (7pm run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/28/2130-final.jpg](2026/10/28/2130-final.jpg) | [S109 de iryo realizando un trayecto Madrid-Málaga.jpg](https://commons.wikimedia.org/wiki/File:S109_de_iryo_realizando_un_trayecto_Madrid-M%C3%A1laga.jpg) | Chencho Ruiz | CC BY-SA 4.0 | 2023-04-06 |
+| [2026/10/28/2200-final.jpg](2026/10/28/2200-final.jpg) | [Kathy Hochul February 2024.jpg](https://commons.wikimedia.org/wiki/File:Kathy_Hochul_February_2024.jpg) | Metropolitan Transportation Authority | CC BY 2.0 | 2024-02-01 |
+
+Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text. The derivative of the CC BY-SA photo (2130) is shared under CC BY-SA 4.0.
+
+## 2026-10-29 (queued in the 2026-10-28 7pm run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/29/0800-final.jpg](2026/10/29/0800-final.jpg) | [Shure MV7 microphone.jpg](https://commons.wikimedia.org/wiki/File:Shure_MV7_microphone.jpg) | Panos Sakalakis | CC BY 2.0 | 2021-01-19 |
+| [2026/10/29/0845-final.jpg](2026/10/29/0845-final.jpg) | [Amazon Echo Show in white.jpg](https://commons.wikimedia.org/wiki/File:Amazon_Echo_Show_in_white.jpg) | Daylen | CC BY 4.0 | 2017-10-07 |
+| [2026/10/29/0930-final.jpg](2026/10/29/0930-final.jpg) | [20231022 Rockstar North.jpg](https://commons.wikimedia.org/wiki/File:20231022_Rockstar_North.jpg) | Discott | CC0 | 2023-10-22 |
+
+Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text.
