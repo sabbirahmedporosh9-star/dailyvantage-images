@@ -73,3 +73,13 @@ Modifications: cropped to 1080x1920, animated (slow zoom/pan, animated text, tra
 | [2026/10/28/1945-ebola-reel.mp4](2026/10/28/1945-ebola-reel.mp4) | [Ebola virus Makona from West African Epidemic (43234028254).jpg](https://commons.wikimedia.org/wiki/File:Ebola_virus_Makona_from_West_African_Epidemic_(43234028254).jpg) | NIAID | CC BY 2.0 | 2018-05-01 |
 
 Modifications: images cropped/resized to 1080x1350 and overlaid with branding, headline and credit text; the Reel is cropped to 1080x1920, animated and overlaid with branding, text and credits, with original licensed audio from the brand audio library. The derivative of the CC BY-SA photo (1615) is shared under CC BY-SA 4.0.
+
+## 2026-10-28 (3pm run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/28/1745-final.jpg](2026/10/28/1745-final.jpg) | [JEF tippkohtumine Helsingis, 26.03.2026 (55170065838).jpg](https://commons.wikimedia.org/wiki/File:JEF_tippkohtumine_Helsingis,_26.03.2026_(55170065838).jpg) | Stenbocki maja | CC BY 4.0 | 2026-03-26 |
+| [2026/10/28/2015-final.jpg](2026/10/28/2015-final.jpg) | [Arnab 2026-10-27 0805Z.png](https://commons.wikimedia.org/wiki/File:Arnab_2026-10-27_0805Z.png) | VIIRS imagery from NOAA's NOAA-21 satellite | Public domain | 2026-10-27 |
+| [2026/10/28/2300-final.jpg](2026/10/28/2300-final.jpg) | [Jio sim.jpg](https://commons.wikimedia.org/wiki/File:Jio_sim.jpg) | Jim Carter | CC BY-SA 3.0 | 2016-09-26 |
+
+Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text. The derivative of the CC BY-SA photo (2300) is shared under CC BY-SA 3.0.
