@@ -115,3 +115,19 @@ Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline
 | [2026/10/29/1500-youtube-q3-reel.mp4](2026/10/29/1500-youtube-q3-reel.mp4) (photo Reel) | [Youtube App Startup.JPG](https://commons.wikimedia.org/wiki/File:Youtube_App_Startup.JPG); [VidCon 2022 Anaheim California YouTube Shorts TikTok Mr. Beast (52166838896) (1).jpg](https://commons.wikimedia.org/wiki/File:VidCon_2022_Anaheim_California_YouTube_Shorts_TikTok_Mr._Beast_(52166838896)_(1).jpg) | SCBY; Anthony Quintano | CC BY-SA 4.0; CC BY 2.0 | 2015-07-29; 2022-06-22 |
 
 Modifications: cropped/resized (1080x1350 images; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos (1330, 1900, Reel) are shared under the same licence. Reel audio: original The Daily Vantage music bed (tech-arp) and SFX from brand/audio.
+
+## 2026-10-29 (11am run)
+
+| Image | Source | Author | License | Date |
+|---|---|---|---|---|
+| [2026/10/29/1600-carousel-1-cover-final.jpg](2026/10/29/1600-carousel-1-cover-final.jpg) | [Social Media App Icons On The Screen of A Smartphone.jpg](https://commons.wikimedia.org/wiki/File:Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg) | mikemacmarketing (original photo via www.vpnsrus.com) | CC BY 2.0 | 2017-07-27 |
+| [2026/10/29/1600-carousel-2-reddit-final.jpg](2026/10/29/1600-carousel-2-reddit-final.jpg) | [Reddit official blog header](https://redditinc.com/hubfs/BlogHeader_Snoo_Blue_005@2x.jpg) | Reddit, Inc. | Official press/blog image (editorial use) | 2026 |
+| [2026/10/29/1600-carousel-3-discord-final.jpg](2026/10/29/1600-carousel-3-discord-final.jpg) | [Discord booth (43507601795).jpg](https://commons.wikimedia.org/wiki/File:Discord_booth_(43507601795).jpg) | Gage Skidmore | CC BY-SA 2.0 | 2018-08-31 |
+| [2026/10/29/1600-carousel-4-chrome-final.jpg](2026/10/29/1600-carousel-4-chrome-final.jpg) | [Google blog: Chrome enhanced autofill](https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/) | Google | Official press/blog image (editorial use) | 2026-10-28 |
+| [2026/10/29/1600-carousel-5-chatgpt-final.jpg](2026/10/29/1600-carousel-5-chatgpt-final.jpg) | [Hand holding smartphone with ChatGPT (52917076309).jpg](https://commons.wikimedia.org/wiki/File:Hand_holding_smartphone_with_ChatGPT_(52917076309).jpg) | Jernej Furman | CC BY 2.0 | 2023-05-18 |
+| [2026/10/29/1600-carousel-6-meta-final.jpg](2026/10/29/1600-carousel-6-meta-final.jpg) | [Tamagotchi - (46219507555).jpg](https://commons.wikimedia.org/wiki/File:Tamagotchi_-_(46219507555).jpg) | Brett Jordan | CC BY 2.0 | 2019-02-15 |
+| [2026/10/29/1600-carousel-7-follow-final.jpg](2026/10/29/1600-carousel-7-follow-final.jpg) | Original graphic | The Daily Vantage | — | 2026-10-29 |
+| [2026/10/29/1800-final.jpg](2026/10/29/1800-final.jpg) | [HK YTM ... Sanrio Gift Gate toys store October 2022 Px3.jpg](https://commons.wikimedia.org/wiki/File:HK_YTM_%E5%A4%A7%E8%A7%92%E5%92%80_Tai_Kok_Tsui_%E5%A5%A7%E6%B5%B7%E5%9F%8E_Olympian_City_Two_mall_shop_Sanrio_Gift_Gate_toys_store_October_2022_Px3.jpg) | Kaims GUW Huamf 2928 | CC BY-SA 4.0 | 2022-10-12 |
+| [2026/10/29/2000-macbook-touch-reel.mp4](2026/10/29/2000-macbook-touch-reel.mp4) (clip Reel) | [Apple Newsroom: MacBook Pro with PROLED XDR Display](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) press videos | Apple Inc. | Official press media (editorial use) | 2026-10-28 |
+
+Modifications: cropped/resized to 1080x1350 (wide press images fitted over a blurred fill) and overlaid with branding, headline and credit text; Reel trimmed/scaled to 1080x1920 over a blurred fill, original audio muted, with original The Daily Vantage music bed (tech-arp) and SFX from brand/audio. Derivatives of CC BY-SA photos (1600 slide 3, 1800) are shared under the same licence.
