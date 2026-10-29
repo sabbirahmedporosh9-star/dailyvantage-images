@@ -141,3 +141,12 @@ Modifications: cropped/resized to 1080x1350 (wide press images fitted over a blu
 | [2026/10/29/2300-final.jpg](2026/10/29/2300-final.jpg) | [Noah Wyle - Walk of Fame-01.jpg](https://commons.wikimedia.org/wiki/File:Noah_Wyle_-_Walk_of_Fame-01.jpg) | Kevin Paul | CC BY 4.0 | 2026-04-09 |
 
 Modifications: cropped/resized (1080x1350 images; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. Reel audio: original The Daily Vantage music bed (drive-upbeat) and SFX from brand/audio.
+
+## 2026-10-30 (queued in the 2026-10-29 7pm run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/30/0800-final.jpg](2026/10/30/0800-final.jpg) | [Christine Lagarde, 2023.jpg](https://commons.wikimedia.org/wiki/File:Christine_Lagarde,_2023.jpg) | European Parliament from EU | CC BY 2.0 | 2022-03-25 |
+| [2026/10/30/1230-eth-ai-reel.mp4](2026/10/30/1230-eth-ai-reel.mp4) (photo Reel) | [Person holding the OpenAI icon.jpg](https://commons.wikimedia.org/wiki/File:Person_holding_the_OpenAI_icon.jpg); [Code on computer monitor (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor_(Unsplash).jpg); [Russell Impagliazzo at the DIMACS Workshop on Cryptography.jpg](https://commons.wikimedia.org/wiki/File:Russell_Impagliazzo_at_the_DIMACS_Workshop_on_Cryptography.jpg) | FoxTPNL; Markus Spiske; BöhmMartin | CC BY 4.0; CC0; CC BY-SA 4.0 | 2026-08-28; 2017-02-14; 2016-07-13 |
+
+Modifications: cropped/resized (1080x1350 image; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. The Reel, which includes a CC BY-SA 4.0 photo, is shared under CC BY-SA 4.0. Reel audio: original The Daily Vantage music bed (tech-arp) and SFX from brand/audio.
