@@ -102,3 +102,16 @@ Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline
 | [2026/10/29/0930-final.jpg](2026/10/29/0930-final.jpg) | [20231022 Rockstar North.jpg](https://commons.wikimedia.org/wiki/File:20231022_Rockstar_North.jpg) | Discott | CC0 | 2023-10-22 |
 
 Modifications: cropped/resized to 1080x1350 and overlaid with branding, headline and credit text.
+
+## 2026-10-29 (7am run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/29/1030-final.jpg](2026/10/29/1030-final.jpg) | [Department of Homeland Security’s new headquarters is ceremoniously opened.jpg](https://commons.wikimedia.org/wiki/File:Department_of_Homeland_Security%E2%80%99s_new_headquarters_is_ceremoniously_opened.jpg) | U.S. Department of Homeland Security | Public domain | 2019-04-10 |
+| [2026/10/29/1200-final.jpg](2026/10/29/1200-final.jpg) | [Falcon 9 Starlink 10-52 Successful Launch (9366519).jpg](https://commons.wikimedia.org/wiki/File:Falcon_9_Starlink_10-52_Successful_Launch_(9366519).jpg) | U.S. Space Force photo by Senior Airman Samuel Becker | Public domain | 2025-10-16 |
+| [2026/10/29/1330-final.jpg](2026/10/29/1330-final.jpg) | [MS-Exec-Nadella-Satya-2017-08-31-14.jpg](https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-14.jpg) | Brian Smale and Microsoft | CC BY-SA 4.0 | 2017-08-31 |
+| [2026/10/29/1700-final.jpg](2026/10/29/1700-final.jpg) | [Official portrait of Rt Hon John Healey MP.jpg](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Rt_Hon_John_Healey_MP.jpg) | Richard Townshend | CC BY 3.0 | 2020-01-12 |
+| [2026/10/29/1900-final.jpg](2026/10/29/1900-final.jpg) | [TikTok app.jpg](https://commons.wikimedia.org/wiki/File:TikTok_app.jpg) | Solen Feyissa | CC BY-SA 2.0 | 2020-07-09 |
+| [2026/10/29/1500-youtube-q3-reel.mp4](2026/10/29/1500-youtube-q3-reel.mp4) (photo Reel) | [Youtube App Startup.JPG](https://commons.wikimedia.org/wiki/File:Youtube_App_Startup.JPG); [VidCon 2022 Anaheim California YouTube Shorts TikTok Mr. Beast (52166838896) (1).jpg](https://commons.wikimedia.org/wiki/File:VidCon_2022_Anaheim_California_YouTube_Shorts_TikTok_Mr._Beast_(52166838896)_(1).jpg) | SCBY; Anthony Quintano | CC BY-SA 4.0; CC BY 2.0 | 2015-07-29; 2022-06-22 |
+
+Modifications: cropped/resized (1080x1350 images; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos (1330, 1900, Reel) are shared under the same licence. Reel audio: original The Daily Vantage music bed (tech-arp) and SFX from brand/audio.
