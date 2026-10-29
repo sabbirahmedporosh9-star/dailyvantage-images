@@ -131,3 +131,13 @@ Modifications: cropped/resized (1080x1350 images; 1080x1920 Reel with Ken Burns 
 | [2026/10/29/2000-macbook-touch-reel.mp4](2026/10/29/2000-macbook-touch-reel.mp4) (clip Reel) | [Apple Newsroom: MacBook Pro with PROLED XDR Display](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) press videos | Apple Inc. | Official press media (editorial use) | 2026-10-28 |
 
 Modifications: cropped/resized to 1080x1350 (wide press images fitted over a blurred fill) and overlaid with branding, headline and credit text; Reel trimmed/scaled to 1080x1920 over a blurred fill, original audio muted, with original The Daily Vantage music bed (tech-arp) and SFX from brand/audio. Derivatives of CC BY-SA photos (1600 slide 3, 1800) are shared under the same licence.
+
+## 2026-10-29 (3pm run)
+
+| Image | Source | Author | License | Date |
+|---|---|---|---|---|
+| [2026/10/29/1730-final.jpg](2026/10/29/1730-final.jpg) | [Demilitarized Zone (DMZ) Joint Security Area (JSA) Looking Into North Korea (28819154694).jpg](https://commons.wikimedia.org/wiki/File:Demilitarized_Zone_(DMZ)_Joint_Security_Area_(JSA)_Looking_Into_North_Korea_(28819154694).jpg) | Travis Wise | CC BY 2.0 | 2016-09-02 |
+| [2026/10/29/1930-freefire-india-reel.mp4](2026/10/29/1930-freefire-india-reel.mp4) (photo Reel) | [Students Play Mobile Game - Kolkata 2016-10-23 1582.JPG](https://commons.wikimedia.org/wiki/File:Students_Play_Mobile_Game_-_Kolkata_2016-10-23_1582.JPG); [Students Play Mobile Game - Kolkata 2016-10-23 1583.JPG](https://commons.wikimedia.org/wiki/File:Students_Play_Mobile_Game_-_Kolkata_2016-10-23_1583.JPG); [Free Fire World Cup 2019 gameplay.png](https://commons.wikimedia.org/wiki/File:Free_Fire_World_Cup_2019_gameplay.png) (from YouTube CC BY video m13PlU08tY8) | Biswarup Ganguly; Biswarup Ganguly; Sygnustv Media | CC BY 3.0; CC BY 3.0; CC BY 3.0 | 2016-10-23; 2016-10-23; 2019-04-13 |
+| [2026/10/29/2300-final.jpg](2026/10/29/2300-final.jpg) | [Noah Wyle - Walk of Fame-01.jpg](https://commons.wikimedia.org/wiki/File:Noah_Wyle_-_Walk_of_Fame-01.jpg) | Kevin Paul | CC BY 4.0 | 2026-04-09 |
+
+Modifications: cropped/resized (1080x1350 images; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. Reel audio: original The Daily Vantage music bed (drive-upbeat) and SFX from brand/audio.
