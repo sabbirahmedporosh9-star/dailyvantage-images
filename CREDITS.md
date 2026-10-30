@@ -165,3 +165,19 @@ Modifications: cropped/resized (1080x1350 image; 1080x1920 Reel with Ken Burns m
 
 Modifications: cropped/resized (1080x1350 images; 1080x1920 Reels with Ken Burns motion) and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos (the two Reels) are shared under the same licence. Reel audio: original The Daily Vantage music bed (tension-low) and SFX from brand/audio.
 | 2026/10/30/0930-final.jpg | https://commons.wikimedia.org/wiki/File:A_Hacker_Works_at_a_COmputer_in_a_Dark_Room.png | Microbiz Mag | CC BY 2.0 | 2023-11-20 (illustrative concept image) |
+
+
+## 2026-10-30 (11am run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/30/1400-ig-pays-youtubers-reel.mp4](2026/10/30/1400-ig-pays-youtubers-reel.mp4) (photo Reel) | [Head of Instagram Adam Mosseri META (52321290009) (cropped).jpg](https://commons.wikimedia.org/wiki/File%3AHead_of_Instagram_Adam_Mosseri_META_%2852321290009%29_%28cropped%29.jpg); [Instagram app on smartphone.jpg](https://commons.wikimedia.org/wiki/File%3AInstagram_app_on_smartphone.jpg) | Anthony Quintano from Mount Laurel, United States; Santeri Viinamäki (both photo and screenshot) | CC BY 2.0; CC BY-SA 4.0 | 2019-04-30; 2016-09-06 |
+| [2026/10/30/1630-carousel-1-cover-final.jpg](2026/10/30/1630-carousel-1-cover-final.jpg) (carousel) | [BalticServers data center.jpg](https://commons.wikimedia.org/wiki/File%3ABalticServers_data_center.jpg) | BalticServers.com | CC BY-SA 3.0 | 2013-03-17 |
+| [2026/10/30/1630-carousel-2-google-final.jpg](2026/10/30/1630-carousel-2-google-final.jpg) (carousel) | [Sundar Pichai - 2023 (cropped).jpg](https://commons.wikimedia.org/wiki/File%3ASundar_Pichai_-_2023_%28cropped%29.jpg) | Photographer: Lukasz Kobus (European Commission) | CC BY 4.0 | 2023-05-24 |
+| [2026/10/30/1630-carousel-3-microsoft-final.jpg](2026/10/30/1630-carousel-3-microsoft-final.jpg) (carousel) | [MS-Exec-Nadella-Satya-2017-08-31-22 (cropped).jpg](https://commons.wikimedia.org/wiki/File%3AMS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg) | Brian Smale and Microsoft | CC BY-SA 4.0 | 2017-08-31 |
+| [2026/10/30/1630-carousel-4-amazon-final.jpg](2026/10/30/1630-carousel-4-amazon-final.jpg) (carousel) | [Andy Jassy.jpg](https://commons.wikimedia.org/wiki/File%3AAndy_Jassy.jpg) | Lisi Mezistrano Wolf | CC BY-SA 4.0 | 2021-09-01 |
+| [2026/10/30/1630-carousel-5-trillion-final.jpg](2026/10/30/1630-carousel-5-trillion-final.jpg) (carousel) | [Amazon Spheres from 6th Avenue, April 2020.jpg](https://commons.wikimedia.org/wiki/File%3AAmazon_Spheres_from_6th_Avenue%2C_April_2020.jpg) | SounderBruce | CC BY-SA 4.0 | 2020-04-09 |
+| [2026/10/30/1630-carousel-6-samsung-final.jpg](2026/10/30/1630-carousel-6-samsung-final.jpg) (carousel) | [Samsung Electronics 2023-08 1693138160.jpg](https://commons.wikimedia.org/wiki/File%3ASamsung_Electronics_2023-08_1693138160.jpg) | Artyom Svetlov | CC BY 4.0 | Taken on 2 |
+| [2026/10/30/1630-carousel-7-follow-final.jpg](2026/10/30/1630-carousel-7-follow-final.jpg) (carousel) | original end card, The Daily Vantage | The Daily Vantage | own work | 2026-10-30 |
+
+Modifications: cropped/resized (1080x1350 carousel slides; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos are shared under the same licence. Reel audio: original The Daily Vantage music bed (drive-upbeat) and SFX from brand/audio.
