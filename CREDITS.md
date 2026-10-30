@@ -192,3 +192,13 @@ Modifications: cropped/resized (1080x1350 carousel slides; 1080x1920 Reel with K
 Modifications: cropped/resized (1080x1350 post; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos are shared under the same licence. Reel audio: original The Daily Vantage music bed (tech-arp) and SFX from brand/audio.
 
 Update (3pm run): [2026/10/30/1730-binance-hack-reel-v2.mp4](2026/10/30/1730-binance-hack-reel-v2.mp4) is a re-render of 1730-binance-hack-reel.mp4 with updated figures; same photos and credits (Bretwa, CC BY-SA 4.0; Satheesh Sankaran, CC BY 2.0; Wikimedia Commons).
+
+## 2026-10-30 (7pm run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/30/2300-gm-data-reel.mp4](2026/10/30/2300-gm-data-reel.mp4) (photo Reel) | [GM Renaissance Center.jpg](https://commons.wikimedia.org/wiki/File%3AGM_Renaissance_Center.jpg); [Chevrolet Volt Dashboard (12494152803).jpg](https://commons.wikimedia.org/wiki/File%3AChevrolet_Volt_Dashboard_%2812494152803%29.jpg); [OnStar.jpg](https://commons.wikimedia.org/wiki/File%3AOnStar.jpg) | Ed Schipul; artistmac; Tyler from Riverside, USA | CC BY-SA 2.0; CC BY-SA 2.0; CC BY 2.0 | 2008-10-27; 2014-02-11; 2008-09-01 |
+| [2026/10/31/1000-final.jpg](2026/10/31/1000-final.jpg) | [Clothes and armchair at Kämp Galleria in April 2024.jpg](https://commons.wikimedia.org/wiki/File%3AClothes_and_armchair_at_K%C3%A4mp_Galleria_in_April_2024.jpg) | JIP | CC BY-SA 4.0 | 2024-04-20 |
+| [2026/10/31/1230-ai-exemption-reel.mp4](2026/10/31/1230-ai-exemption-reel.mp4) (photo Reel) | [Old Main, University of Kentucky, Administration Drive, Lexington, KY - 53670403663.jpg](https://commons.wikimedia.org/wiki/File%3AOld_Main%2C_University_of_Kentucky%2C_Administration_Drive%2C_Lexington%2C_KY_-_53670403663.jpg); [Smartphone with ChatGPT app and laptop (52917381683).jpg](https://commons.wikimedia.org/wiki/File%3ASmartphone_with_ChatGPT_app_and_laptop_%2852917381683%29.jpg) | w_lemay; Jernej Furman from Slovenia | CC BY-SA 2.0; CC BY 2.0 | 2023-07-04; 2023-05-18 |
+
+Modifications: cropped/resized (1080x1350 post; 1080x1920 Reels with Ken Burns motion) and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos are shared under the same licence. Reel audio: original The Daily Vantage music beds (tension-low for GM, drive-upbeat for AI exemption) and SFX from brand/audio. No third-party video footage used.
