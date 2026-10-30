@@ -181,3 +181,12 @@ Modifications: cropped/resized (1080x1350 images; 1080x1920 Reels with Ken Burns
 | [2026/10/30/1630-carousel-7-follow-final.jpg](2026/10/30/1630-carousel-7-follow-final.jpg) (carousel) | original end card, The Daily Vantage | The Daily Vantage | own work | 2026-10-30 |
 
 Modifications: cropped/resized (1080x1350 carousel slides; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos are shared under the same licence. Reel audio: original The Daily Vantage music bed (drive-upbeat) and SFX from brand/audio.
+
+## 2026-10-30 (3pm run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/30/1800-final.jpg](2026/10/30/1800-final.jpg) | [Dmitry Muratov, Tallinn 2023.jpg](https://commons.wikimedia.org/wiki/File%3ADmitry_Muratov%2C_Tallinn_2023.jpg) | Metsavend | CC BY-SA 4.0 | 2023-02-10 |
+| [2026/10/30/2100-uk-teen-ban-reel.mp4](2026/10/30/2100-uk-teen-ban-reel.mp4) (photo Reel) | [Social Media App Icons On The Screen of A Smartphone.jpg](https://commons.wikimedia.org/wiki/File%3ASocial_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg); [Child uses smartphone to play games at home closeup.jpg](https://commons.wikimedia.org/wiki/File%3AChild_uses_smartphone_to_play_games_at_home_closeup.jpg); [2021 - Future Societies EN6 4748 (51652427740).jpg](https://commons.wikimedia.org/wiki/File%3A2021_-_Future_Societies_EN6_4748_%2851652427740%29.jpg) | mikemacmarketing (www.vpnsrus.com); Shixart1985; Web Summit (Eóin Noonan / Sportsfile) | CC BY 2.0; CC BY 2.0; CC BY 2.0 | 2017-07-27; 2026-06-07; 2021-11-03 |
+
+Modifications: cropped/resized (1080x1350 post; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos are shared under the same licence. Reel audio: original The Daily Vantage music bed (tech-arp) and SFX from brand/audio.
