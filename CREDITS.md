@@ -153,3 +153,14 @@ Modifications: cropped/resized (1080x1350 images; 1080x1920 Reel with Ken Burns 
 Modifications: cropped/resized (1080x1350 image; 1080x1920 Reel with Ken Burns motion) and overlaid with branding, headline and credit text. The derivatives of CC BY-SA 4.0 photos (1000 image and the Reel) are shared under CC BY-SA 4.0. Reel audio: original The Daily Vantage music bed (tech-arp) and SFX from brand/audio.
 
 | 2026/10/29/2135-final.jpg (breaking: DoorDash-Instacart) | https://commons.wikimedia.org/wiki/File:Instacart,_Miami_Florida_July_2022.jpg | Paul Sableman | CC BY 2.0 | 2022-07-02 |
+
+## 2026-10-30 (7am run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/30/1100-final.jpg](2026/10/30/1100-final.jpg) | [Dnipro railway station. Platforms.jpg](https://commons.wikimedia.org/wiki/File:Dnipro_railway_station._Platforms.jpg) (file photo) | Toss12 | CC BY 4.0 | 2021-05-14 |
+| [2026/10/30/1500-final.jpg](2026/10/30/1500-final.jpg) | [Reddit CEO Steve Huffman at the Goldman PICC.jpg](https://commons.wikimedia.org/wiki/File:Reddit_CEO_Steve_Huffman_at_the_Goldman_PICC.jpg) | Steve Jurvetson | CC BY 2.0 | 2018-11-15 |
+| [2026/10/30/1730-binance-hack-reel.mp4](2026/10/30/1730-binance-hack-reel.mp4) (photo Reel) | [Binance t-shirt and bag - 2022-07-09.jpg](https://commons.wikimedia.org/wiki/File:Binance_t-shirt_and_bag_-_2022-07-09.jpg); [Bitcoin on Laptop Keyboard.jpg](https://commons.wikimedia.org/wiki/File:Bitcoin_on_Laptop_Keyboard.jpg) | Bretwa; Satheesh Sankaran | CC BY-SA 4.0; CC BY 2.0 | 2022-07-09; 2023-02-13 |
+| [2026/10/30/2030-stewart-reel.mp4](2026/10/30/2030-stewart-reel.mp4) (photo Reel) | [Patrick Stewart by Gage Skidmore.jpg](https://commons.wikimedia.org/wiki/File:Patrick_Stewart_by_Gage_Skidmore.jpg); [Patrick Stewart 2012.jpg](https://commons.wikimedia.org/wiki/File:Patrick_Stewart_2012.jpg) | Gage Skidmore; Anders Krusberg / Peabody Awards | CC BY-SA 3.0; CC BY 2.0 | 2013-07-20; 2012-05-21 |
+
+Modifications: cropped/resized (1080x1350 images; 1080x1920 Reels with Ken Burns motion) and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos (the two Reels) are shared under the same licence. Reel audio: original The Daily Vantage music bed (tension-low) and SFX from brand/audio.
