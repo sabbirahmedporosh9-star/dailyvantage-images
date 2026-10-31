@@ -231,3 +231,9 @@ Modifications: cropped/resized to 1080x1920, desaturated/darkened with slow zoom
 | [2026/10/31/2300-reddit-login-reel.mp4](2026/10/31/2300-reddit-login-reel.mp4) (photo Reel, explained_in_3 style) | [Web Summit 2017 - Centre Stage Day 2 CG1 7835 (24392833478).jpg](https://commons.wikimedia.org/wiki/File%3AWeb_Summit_2017_-_Centre_Stage_Day_2_CG1_7835_%2824392833478%29.jpg); [Web Summit 2017 - Centre Stage Day 2 CG1 7843 (38263971671).jpg](https://commons.wikimedia.org/wiki/File%3AWeb_Summit_2017_-_Centre_Stage_Day_2_CG1_7843_%2838263971671%29.jpg) | Cody Glenn / Web Summit (via Sportsfile) | CC BY 2.0; CC BY 2.0 | 2017-11-08 |
 
 Modifications: cropped/resized for 1080x1920, slow zoom/pan, overlaid with branding, text and credit. Reel audio: original The Daily Vantage beds (tension-low for Patriot; new bed-calm-explainer for Reddit) and SFX (new sfx-tick, sfx-pop synthesized by make_reel_styles.py, plus brand/audio SFX). No third-party video footage used.
+
+## 2026-10-31 (7pm run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/31/2000-final.jpg](2026/10/31/2000-final.jpg) | [Smartphone with ChatGPT on the US dollar banknotes background (52917311070).jpg](https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_on_the_US_dollar_banknotes_background_(52917311070).jpg) | Jernej Furman | CC BY 2.0 | 2023-05-18 |
