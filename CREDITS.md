@@ -213,3 +213,11 @@ Modifications: cropped/resized (1080x1350 post; 1080x1920 Reels with Ken Burns m
 | [2026/10/31/1930-suncatcher-reel.mp4](2026/10/31/1930-suncatcher-reel.mp4) (photo Reel) | [The Earth seen from Apollo 17.jpg](https://commons.wikimedia.org/wiki/File%3AThe_Earth_seen_from_Apollo_17.jpg); [Tensor Processing Unit 3.0.jpg](https://commons.wikimedia.org/wiki/File%3ATensor_Processing_Unit_3.0.jpg); [Svalbard Satellite Station 2015-03-23 02.jpg](https://commons.wikimedia.org/wiki/File%3ASvalbard_Satellite_Station_2015-03-23_02.jpg) | NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron; Zinskauf; Bernt Rostad | Public domain; CC BY-SA 4.0; CC BY 2.0 | 7 December; 2019-03-12; 2015-03-23 |
 
 Modifications: cropped/resized and overlaid with branding, headline and credit text. Derivatives of CC BY-SA photos are shared under the same licence. Reel audio: original The Daily Vantage music beds (drive-upbeat for Roblox, tech-arp for Suncatcher) and SFX from brand/audio. No third-party video footage used.
+
+## 2026-10-31 (11am run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/10/31/2030-altman-ram-reel.mp4](2026/10/31/2030-altman-ram-reel.mp4) (photo Reel, quote_card style) | [Sam Altman November 2022.jpg](https://commons.wikimedia.org/wiki/File%3ASam_Altman_November_2022.jpg); [DDR 4 RAM SO-DIMM 16GB by Micron-top front PNr°0840.jpg](https://commons.wikimedia.org/wiki/File%3ADDR_4_RAM_SO-DIMM_16GB_by_Micron-top_front_PNr%C2%B00840.jpg) | Village Global; D-Kuru | CC BY 2.0; CC BY-SA 4.0 | 2022-11-17; n/a |
+
+Modifications: cropped/resized to 1080x1920, desaturated/darkened with slow zoom, overlaid with branding, quote and credit text. Derivatives of CC BY-SA photos are shared under the same licence. Quote verified against the Cheeky Pint podcast transcript (https://cheekypint.transistor.fm/39/transcript) and The Verge. Reel audio: original The Daily Vantage bed-quote-keys and sfx-type (new, synthesized by make_reel_styles.py) plus brand/audio SFX. No third-party video footage used.
