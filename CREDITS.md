@@ -237,3 +237,15 @@ Modifications: cropped/resized for 1080x1920, slow zoom/pan, overlaid with brand
 | Image | Source photo | Author | License | Photo date |
 |---|---|---|---|---|
 | [2026/10/31/2000-final.jpg](2026/10/31/2000-final.jpg) | [Smartphone with ChatGPT on the US dollar banknotes background (52917311070).jpg](https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_on_the_US_dollar_banknotes_background_(52917311070).jpg) | Jernej Furman | CC BY 2.0 | 2023-05-18 |
+
+## 2026-11-01 (7pm run)
+
+| Image | Source photo | Author | License | Photo date |
+|---|---|---|---|---|
+| [2026/11/01/2200-final.jpg](2026/11/01/2200-final.jpg) | [Elon Musk Royal Society.jpg](https://commons.wikimedia.org/wiki/File%3AElon_Musk_Royal_Society.jpg) | Duncan.Hull | CC BY-SA 4.0 | 2018-07-13 |
+| [2026/11/01/2245-final.jpg](2026/11/01/2245-final.jpg) | [Doha - West Bay Skyline 02.jpg](https://commons.wikimedia.org/wiki/File%3ADoha_-_West_Bay_Skyline_02.jpg) | P. Hughes | CC BY 4.0 | 2026-02-04 |
+| [2026/11/01/1100-final.jpg](2026/11/01/1100-final.jpg) | [Semiconductor Wafer of Microelectronics.jpg](https://commons.wikimedia.org/wiki/File%3ASemiconductor_Wafer_of_Microelectronics.jpg) | DrHughManning | CC BY-SA 4.0 | 2017-01-26 |
+| [2026/11/01/2115-openai-funding-reel.mp4](2026/11/01/2115-openai-funding-reel.mp4) (photo Reel, meme_casual style) | [OpenAI logo with magnifying glass (52916339167).jpg](https://commons.wikimedia.org/wiki/File%3AOpenAI_logo_with_magnifying_glass_%2852916339167%29.jpg); [Person holding the OpenAI icon.jpg](https://commons.wikimedia.org/wiki/File%3APerson_holding_the_OpenAI_icon.jpg) | Jernej Furman from Slovenia; FoxTPNL | CC BY 2.0; CC BY 4.0 | 2023-05-22; 2026-08-28 |
+| [2026/11/01/2030-youtube-payout-reel.mp4](2026/11/01/2030-youtube-payout-reel.mp4) (photo Reel, before_after style) | [YouTube HQ 1.JPG](https://commons.wikimedia.org/wiki/File%3AYouTube_HQ_1.JPG); [Silver Play Button award from YouTube.jpg](https://commons.wikimedia.org/wiki/File%3ASilver_Play_Button_award_from_YouTube.jpg) | BrokenSphere; Becky Stern | CC BY 3.0; CC BY-SA 2.0 | 2010-08-09; 2015-08-26 |
+
+Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, desaturation on the 'before' panel, overlaid with branding, text and credit. Reel audio: original The Daily Vantage beds (bed-meme-bounce, bed-tech-arp) and SFX from brand/audio. No third-party video footage used.
