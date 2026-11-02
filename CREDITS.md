@@ -266,3 +266,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 ### 2026-11-02 v2 re-renders (credit emoji fix)
 - 2026/11/02/1700-nasa-ghost-reel-v2.mp4: same as 1330-nasa-ghost-reel.mp4, on-screen credit now plain "Video: NASA/JSC/A. Menon" (public domain).
 - 2026/11/02/2130-osprey-rescue-reel-v2.mp4: same as 2130-osprey-rescue-reel.mp4, on-screen credit now plain "Video: Sea Screamer crew (via Reddit), short excerpt".
+
+## 2026-11-03
+
+| File | Source | Author | License / notes |
+|---|---|---|---|
+| 2026/11/03/1930-ternus-ai-reel.mp4 (photo Reel, quote_card style; 7pm run 11-02) | https://commons.wikimedia.org/wiki/File:John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg; https://commons.wikimedia.org/wiki/File:Apple_Park_aerial_view,_June_2024.jpg | Tessa Bury; Nils Huenerfuerst | CC BY 4.0; CC0 (desaturated, zoom/pan, text overlays). Quote via TechCrunch/WIRED. Music: The Daily Vantage original bed-quote-keys |
