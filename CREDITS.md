@@ -250,3 +250,10 @@ Modifications: cropped/resized for 1080x1920, slow zoom/pan, overlaid with brand
 | [2026/11/02/1230-final.jpg](2026/11/02/1230-final.jpg) | [Shanghai Apple store 4.jpg](https://commons.wikimedia.org/wiki/File%3AShanghai_Apple_store_4.jpg) | kallerna | CC BY-SA 4.0 | 2020-01-08 |
 
 Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, desaturation on the 'before' panel, overlaid with branding, text and credit. Reel audio: original The Daily Vantage beds (bed-meme-bounce, bed-tech-arp) and SFX from brand/audio. No third-party video footage used.
+
+## 2026-11-02
+
+| File | Source | Author / owner | License / basis |
+|---|---|---|---|
+| 2026/11/02/1430-final.jpg | https://commons.wikimedia.org/wiki/File:DeepSeek_purple.png | DeepSeek logo, uploaded by RoadMaster19 | CC BY 4.0 |
+| 2026/11/02/1930-firefox-memes-reel.mp4 | https://www.youtube.com/watch?v=E2AoYIKwJqM (official Firefox channel, "Come Back to Firefox" ad, Oct 25 2026) | Firefox / Mozilla | Short excerpt (6.5s of 24.5s, 27%), original audio muted, our commentary text; credited. Music: The Daily Vantage original bed-meme-bounce |
