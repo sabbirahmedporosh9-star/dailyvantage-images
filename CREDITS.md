@@ -293,3 +293,10 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | clip + freeze-frames | https://www.reddit.com/r/MadeMeSmile/comments/1xm2hrk/ (v.redd.it 7bxjzbjgk7zh1) | via Reddit u/Aggravating-Pound598, original uploader unknown | short credited excerpt (6.0s moving of 24.5s, 24%), rest freeze-frames with our story text, audio muted |
 | Music | brand/audio/bed-calm-explainer.wav | The Daily Vantage (original) | own |
+
+### 2026-11-03 7pm run: 2026/11/04/0830-itch-ai-slop-reel.mp4 (explained_in_3 photo Reel, 14.9s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| itch.io logo (on our own gradient card) | https://commons.wikimedia.org/wiki/File:Itch.io_logo.svg | itch.io | Public domain (Wikimedia Commons) |
+| Photo | https://commons.wikimedia.org/wiki/File:Xbox_One_gamepads,_gaming_keyboard_and_mouse.jpg | Jean-Marc Trappler | CC BY-SA 4.0 |
+| Music + SFX | brand/audio/bed-pulse-news.wav | The Daily Vantage (original) | own |
