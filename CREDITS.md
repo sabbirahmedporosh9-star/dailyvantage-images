@@ -281,3 +281,15 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 0-4.5s spotter clip | https://www.reddit.com/r/nextfuckinglevel/comments/1xm0ryw/ (v.redd.it bams6uhe08zh1) | via Reddit u/lonewolff321, original filmer unknown | short credited excerpt (4.5s of 22.3s, 20%), audio muted |
 | 4.5-22.3s b-roll | https://images.nasa.gov/details/AFRC-2026-14622-X-59_Flt17_FSS_B-ROLL_6-5-26_YT | NASA Armstrong (Lori Losey) | NASA media, US government public domain; no NASA endorsement implied |
 | Music | brand/audio/bed-drive-upbeat.wav | The Daily Vantage (original) | own |
+
+### 2026-11-03 3pm run: 1745-cat-swap-reel.mp4 (cablgram_story, 23.2s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| clip + freeze-frames | https://www.reddit.com/r/funny/comments/1xlqf74/ (v.redd.it ktc8bjtzd5zh1) | via Reddit u/Satinsbestfriend, original creator unknown | short credited excerpt (5.2s moving of 23.2s, 22%), rest freeze-frames with our story text, audio muted |
+| Music | brand/audio/bed-meme-bounce.wav | The Daily Vantage (original) | own |
+
+### 2026-11-03 3pm run: 2030-dog-puppy-reel.mp4 (cablgram_story, 24.5s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| clip + freeze-frames | https://www.reddit.com/r/MadeMeSmile/comments/1xm2hrk/ (v.redd.it 7bxjzbjgk7zh1) | via Reddit u/Aggravating-Pound598, original uploader unknown | short credited excerpt (6.0s moving of 24.5s, 24%), rest freeze-frames with our story text, audio muted |
+| Music | brand/audio/bed-calm-explainer.wav | The Daily Vantage (original) | own |
