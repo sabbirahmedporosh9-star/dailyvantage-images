@@ -300,3 +300,5 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | itch.io logo (on our own gradient card) | https://commons.wikimedia.org/wiki/File:Itch.io_logo.svg | itch.io | Public domain (Wikimedia Commons) |
 | Photo | https://commons.wikimedia.org/wiki/File:Xbox_One_gamepads,_gaming_keyboard_and_mouse.jpg | Jean-Marc Trappler | CC BY-SA 4.0 |
 | Music + SFX | brand/audio/bed-pulse-news.wav | The Daily Vantage (original) | own |
+
+- 2026/11/04/1230-rapunzel-tower-reel.mp4 — The Daily Vantage clip Reel (23.5s). Short excerpt (5s moving footage + freeze frames) from "BEST DAY EVER! 1000% worth the effort" by Micarah Tewers (YouTube @MicarahTewers, shared on Reddit r/nextfuckinglevel by u/schmaltzzz), used for news commentary with credit. Music: The Daily Vantage bed (drive-upbeat).
