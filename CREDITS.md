@@ -274,3 +274,10 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/03/1930-ternus-ai-reel.mp4 (photo Reel, quote_card style; 7pm run 11-02) | https://commons.wikimedia.org/wiki/File:John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg; https://commons.wikimedia.org/wiki/File:Apple_Park_aerial_view,_June_2024.jpg | Tessa Bury; Nils Huenerfuerst | CC BY 4.0; CC0 (desaturated, zoom/pan, text overlays). Quote via TechCrunch/WIRED. Music: The Daily Vantage original bed-quote-keys |
 | 2026/11/03/2130-vanity-mocap-reel.mp4 (clip Reel, cablgram_clip, 23.0s; 7am run 11-03) | https://www.reddit.com/r/nextfuckinglevel/comments/1xky6ap/ (video https://v.redd.it/oauglppcsyyh1; creator's own TikTok @vanityclips upload) | VanityProjects (Twitch streamer) | Short credited excerpt of a light public viral clip: 5.5s moving footage of 23.0s (24%), rest freeze-frames with our story text, original audio muted, on-screen credit "Video: VanityProjects (Twitch)". Music: The Daily Vantage original bed-tech-arp |
 | 2026/11/03/1600-openai-grid-reel.mp4 (photo Reel, big_number style; 7am run 11-03) | https://commons.wikimedia.org/wiki/File:Transmission_Lines_at_Sunset.jpg; https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg | Kkiefuik; Carl Lender | CC BY 4.0; CC BY 2.0 (cropped, zoom/pan, text overlays). Facts: openai.com/index/grid-protectors-program. Music: The Daily Vantage original bed-tech-arp |
+
+### 2026-11-03 11am run: 1400-x59-quiet-jet-reel.mp4 (cablgram_clip, 22.3s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| 0-4.5s spotter clip | https://www.reddit.com/r/nextfuckinglevel/comments/1xm0ryw/ (v.redd.it bams6uhe08zh1) | via Reddit u/lonewolff321, original filmer unknown | short credited excerpt (4.5s of 22.3s, 20%), audio muted |
+| 4.5-22.3s b-roll | https://images.nasa.gov/details/AFRC-2026-14622-X-59_Flt17_FSS_B-ROLL_6-5-26_YT | NASA Armstrong (Lori Losey) | NASA media, US government public domain; no NASA endorsement implied |
+| Music | brand/audio/bed-drive-upbeat.wav | The Daily Vantage (original) | own |
