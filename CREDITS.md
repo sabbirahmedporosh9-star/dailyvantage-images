@@ -324,3 +324,5 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | Music | brand/audio/bed-calm-explainer.wav | The Daily Vantage (original) | own |
 
 | 2026/11/04/1800-tesla-roadster-flip-reel.mp4 | Official Tesla footage, "POV you're a flying car" (https://x.com/Tesla/status/2117659842685128881) | Tesla | Official brand video, credited; full clip use | 2026-11-03 |
+
+| 2026/11/04/1345-final.jpg | https://commons.wikimedia.org/wiki/File:United_States_Capitol_west_front_edit2.jpg | Architect of the Capitol (via Wikimedia Commons) | Public domain | 1997 |
