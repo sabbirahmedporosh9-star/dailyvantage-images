@@ -322,3 +322,5 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | clip + freeze-frames | https://www.reddit.com/r/MadeMeSmile/comments/1xmo0qq/ (v.redd.it 9e2u6avq2dzh1) | ABC News footage, shared on Reddit by u/AryanPandey | short credited excerpt (5.5s moving of 22.5s, 24%), rest freeze-frames with our story text, audio muted; facts per The Guardian Nov 2 2026 |
 | Music | brand/audio/bed-calm-explainer.wav | The Daily Vantage (original) | own |
+
+| 2026/11/04/1800-tesla-roadster-flip-reel.mp4 | Official Tesla footage, "POV you're a flying car" (https://x.com/Tesla/status/2117659842685128881) | Tesla | Official brand video, credited; full clip use | 2026-11-03 |
