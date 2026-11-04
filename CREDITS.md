@@ -330,3 +330,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/04/1715-figure-f03-walkout-reel.mp4 | Figure F.03 robots leaving BotQ, posted by Brett Adcock (https://x.com/adcock_brett/status/2117286067472937012) | Brett Adcock / Figure | Company footage on CEO's X account, no press licence: 5.0s moving excerpt of 22.0s (23%) + freeze-frames, audio muted, credited | 2026-11-02 |
 
 | 2026/11/05/0900-yt-30day-lock-reel.mp4 | https://commons.wikimedia.org/wiki/File:YouTube_HQ_3.JPG ; https://commons.wikimedia.org/wiki/File:YouTube_HQ_9.JPG | BrokenSphere (Wikimedia Commons) | CC BY 3.0 | 2010-08-09 |
+
+### 2026-11-04 7pm run: 2026/11/05/1230-chatgpt-1p2b-kinetic-reel.mp4 (kinetic_text, 17.9s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 10374885, 12893568, 11933153, 8937986, 10374888, 8480291 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Voxel Revolution" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
