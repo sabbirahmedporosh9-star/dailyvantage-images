@@ -316,3 +316,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | clip + freeze-frames | https://www.youtube.com/watch?v=A23Xq5_qErc ("Photon Matrix Real-World Test", company's own demo) | Photon Matrix | short credited excerpt (5.0s moving of 22.0s, 23%), rest freeze-frames with our story text, original audio muted; not treated as press footage (no press-release statement) |
 | Music | brand/audio/bed-tech-arp.wav | The Daily Vantage (original) | own |
+
+### 2026-11-04 7am run: 2026/11/04/2130-bushby-walk-home-reel.mp4 (cablgram_story, 22.5s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| clip + freeze-frames | https://www.reddit.com/r/MadeMeSmile/comments/1xmo0qq/ (v.redd.it 9e2u6avq2dzh1) | ABC News footage, shared on Reddit by u/AryanPandey | short credited excerpt (5.5s moving of 22.5s, 24%), rest freeze-frames with our story text, audio muted; facts per The Guardian Nov 2 2026 |
+| Music | brand/audio/bed-calm-explainer.wav | The Daily Vantage (original) | own |
