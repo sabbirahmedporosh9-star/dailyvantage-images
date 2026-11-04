@@ -326,3 +326,7 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/04/1800-tesla-roadster-flip-reel.mp4 | Official Tesla footage, "POV you're a flying car" (https://x.com/Tesla/status/2117659842685128881) | Tesla | Official brand video, credited; full clip use | 2026-11-03 |
 
 | 2026/11/04/1345-final.jpg | https://commons.wikimedia.org/wiki/File:United_States_Capitol_west_front_edit2.jpg | Architect of the Capitol (via Wikimedia Commons) | Public domain | 1997 |
+
+| 2026/11/04/1715-figure-f03-walkout-reel.mp4 | Figure F.03 robots leaving BotQ, posted by Brett Adcock (https://x.com/adcock_brett/status/2117286067472937012) | Brett Adcock / Figure | Company footage on CEO's X account, no press licence: 5.0s moving excerpt of 22.0s (23%) + freeze-frames, audio muted, credited | 2026-11-02 |
+
+| 2026/11/05/0900-yt-30day-lock-reel.mp4 | https://commons.wikimedia.org/wiki/File:YouTube_HQ_3.JPG ; https://commons.wikimedia.org/wiki/File:YouTube_HQ_9.JPG | BrokenSphere (Wikimedia Commons) | CC BY 3.0 | 2010-08-09 |
