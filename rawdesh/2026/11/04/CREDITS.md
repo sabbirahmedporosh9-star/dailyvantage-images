@@ -1,0 +1,6 @@
+# Rawdesh media credits, 2026-11-04 (8am run)
+- rmg-worker-dies-factories-open.jpg: frame from "Nähmaschine Slomo Seite.webm" by Ubahnverleih, CC BY 3.0, Wikimedia Commons (illustrative)
+- constables-fake-addresses-1173.jpg: "Bangladesh Police Academy in Rajshahi (3).png" by U.S. Embassy Dhaka, public domain, Wikimedia Commons (file photo)
+- lead-paint-imports-untracked.jpg: "Paint bucket and brush.jpg" by Ionenlaser, CC0, Wikimedia Commons (illustrative)
+- rawdesh-wb-ageing-reel.mp4: "Freedom and Democracy Torana - University of Dhaka - Nilkhet Road - Dhaka 2015-05-31 1930.ogv", "Mirpur Road - New Market Area - Dhaka 2015-05-29 1928.ogv", "High Court Gate Road Junction Area - Dhaka 2015-05-31 2085.ogv" by Biswarup Ganguly, CC BY 3.0 (Wikimedia Commons)
+- rawdesh-italy-route-reel.mp4: "Colosseum, Rome 113323.webm" by Quahadi, CC BY 4.0; "Morning in Naples.webm" by Joaquim Baeta, CC BY 4.0; "Explore Europe- Florence, Italy (987610).webm" by U.S. Army video by Sgt. Salvador Castro, public domain (Wikimedia Commons)
