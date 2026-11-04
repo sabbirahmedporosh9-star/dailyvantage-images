@@ -302,3 +302,17 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | Music + SFX | brand/audio/bed-pulse-news.wav | The Daily Vantage (original) | own |
 
 - 2026/11/04/1230-rapunzel-tower-reel.mp4 — The Daily Vantage clip Reel (23.5s). Short excerpt (5s moving footage + freeze frames) from "BEST DAY EVER! 1000% worth the effort" by Micarah Tewers (YouTube @MicarahTewers, shared on Reddit r/nextfuckinglevel by u/schmaltzzz), used for news commentary with credit. Music: The Daily Vantage bed (drive-upbeat).
+
+### 2026-11-04 7am run: 2026/11/04/1500-yt-replace-song-reel.mp4 (before_after photo Reel, 13.2s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| Photo (BEFORE panel) | https://commons.wikimedia.org/wiki/File:Mixing_and_mastering.jpg | Max Rayden | CC BY-SA 4.0 |
+| Photo (NOW panel) | https://commons.wikimedia.org/wiki/File:Enregistrement_d%27un_podcast.jpg | Guillaume Bonzoms | CC0 |
+| Photo (beats) | https://commons.wikimedia.org/wiki/File:YouTube_Gaming_live_studio_at_Google_Play_booth_20190127a.jpg | Solomon203 | CC BY-SA 4.0 |
+| Music + SFX | brand/audio/bed-tech-arp.wav | The Daily Vantage (original) | own |
+
+### 2026-11-04 7am run: 2026/11/04/1900-photon-mosquito-laser-reel.mp4 (cablgram_clip, 22.0s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| clip + freeze-frames | https://www.youtube.com/watch?v=A23Xq5_qErc ("Photon Matrix Real-World Test", company's own demo) | Photon Matrix | short credited excerpt (5.0s moving of 22.0s, 23%), rest freeze-frames with our story text, original audio muted; not treated as press footage (no press-release statement) |
+| Music | brand/audio/bed-tech-arp.wav | The Daily Vantage (original) | own |
