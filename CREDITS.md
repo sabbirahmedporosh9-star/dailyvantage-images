@@ -336,3 +336,7 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | stock video | Pexels videos 10374885, 12893568, 11933153, 8937986, 10374888, 8480291 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
 | Music | "Voxel Revolution" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+## 2026/11/05/1500-tiny-ballerina-reveal-reel.mp4
+- Footage: 4.6s excerpt + freeze-frames from "SUBSCRIBE FOR 7 YEARS OF GOOD LUCK!" by Jasmin and James (YouTube @JasminandJames, https://www.youtube.com/shorts/52y1_fKADLQ), credited on screen and in caption; original audio muted.
+- Music: "Funk Game Loop" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
