@@ -340,3 +340,15 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 ## 2026/11/05/1500-tiny-ballerina-reveal-reel.mp4
 - Footage: 4.6s excerpt + freeze-frames from "SUBSCRIBE FOR 7 YEARS OF GOOD LUCK!" by Jasmin and James (YouTube @JasminandJames, https://www.youtube.com/shorts/52y1_fKADLQ), credited on screen and in caption; original audio muted.
 - Music: "Funk Game Loop" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+
+### 2026-11-05 7am run: 2026/11/05/1800-uber-ai-agents-reel.mp4 (fast_cut_beat, 17.9s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 5834189, 11372905, 5834627, 13441334, 11372816, 6868889, 11372916, 5834180 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Raving Energy" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026-11-05 7am run: 2026/11/05/2100-youtube-tamba-reel.mp4 (glitch_tech, 15.1s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 7279035, 5377697, 6570513, 17512949, 8125816, 4962723 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Severe Tire Damage" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
