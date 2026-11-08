@@ -352,3 +352,23 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | stock video | Pexels videos 7279035, 5377697, 6570513, 17512949, 8125816, 4962723 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
 | Music | "Severe Tire Damage" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+## 2026-11-08 7pm run
+
+### 2026/11/08/2030-ig-edits-desktop-reel.mp4 (screen_ui, 18.2s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 14003577, 7699548, 5092427, 1536323, 19162499, 9384669 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Enter the Party" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026/11/08/2200-anthropic-metr-2x-reel.mp4 (news_ticker, 17.9s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 5028622, 1085656, 2278095, 11274330, 2887463, 854053 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Floating Cities" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026/11/09/0930-yt-paid-hype-reel.mp4 (zoom_reveal, 18.9s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 7514348, 6617464, 5584722, 6332637, 17811915, 7482042 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Funky Chunk" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
