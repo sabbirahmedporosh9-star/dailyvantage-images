@@ -410,3 +410,15 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | stock video | Pexels videos 10354256, 10967336 (industrial chimney smoke), 5377697, 5377775 (computer/code screens) (https://www.pexels.com/video/<id>/) (generic illustrative; not Anthropic or OnePWR sites) | Pexels contributors | Pexels License (free use, no attribution required) |
 | Music | "Easy Lemon" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026-11-09 2245-deepseek-harness-reel.mp4 (countdown_list, 17.9s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 8087080, 8087025 (toy robot), 7989667 (laptop typing), 8348315 (monitors) (https://www.pexels.com/video/<id>/) (generic illustrative; not DeepSeek or Harness) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Ouroboros" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026-11-09 0930-meta-muse-voice-reel.mp4 (meme_casual motion, 17.7s; posts Nov 10)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 5974766, 6930960, 7817083, 6534946, 7100952, 8052442 (people on phones/video calls) (https://www.pexels.com/video/<id>/) (generic illustrative; not Meta Muse) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Fluffing a Duck" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
