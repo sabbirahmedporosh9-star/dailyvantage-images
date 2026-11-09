@@ -404,3 +404,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | Video | SpaceX official X posts https://x.com/i/status/2118868469655433435 (liftoff) and https://x.com/i/status/2118870818021097862 (landing), USSF-432, Nov 6 2026 | SpaceX (@SpaceX) | Official company launch footage, full-length use (own); original audio muted; credited on screen |
 | Music | "Digital Lemonade" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026-11-09 2000-anthropic-generators-reel.mp4 (split_screen, 16.1s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 10354256, 10967336 (industrial chimney smoke), 5377697, 5377775 (computer/code screens) (https://www.pexels.com/video/<id>/) (generic illustrative; not Anthropic or OnePWR sites) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Easy Lemon" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
