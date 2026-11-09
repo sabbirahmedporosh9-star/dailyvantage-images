@@ -372,3 +372,29 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | stock video | Pexels videos 7514348, 6617464, 5584722, 6332637, 17811915, 7482042 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
 | Music | "Funky Chunk" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+## 2026-11-09 7am run
+
+### 2026/11/09/1230-openai-11b-reel.mp4 (kinetic_text, 19.2s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 8480284, 7947464, 8348727, 7691584 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Protofunk" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026/11/09/1530-yt-shopping-shelf-reel.mp4 (fast_cut_beat, 16.9s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 6898096, 4994156, 7568746, 6944164 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Hitman" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026/11/09/1930-siri-agent-reel.mp4 (glitch_tech, 18.0s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 19162466, 7822022, 5377683, 6331097 (https://www.pexels.com/video/<id>/) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Voltaic" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026/11/09/2130-right-whale-calf-reel.mp4 (zoom_reveal, 18.1s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 14146693, 13841191, 17086197, 14146660 (https://www.pexels.com/video/<id>/) (generic humpback/other whale footage; not the whale in the story) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Wallpaper" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
