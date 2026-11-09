@@ -398,3 +398,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | stock video | Pexels videos 14146693, 13841191, 17086197, 14146660 (https://www.pexels.com/video/<id>/) (generic humpback/other whale footage; not the whale in the story) | Pexels contributors | Pexels License (free use, no attribution required) |
 | Music | "Wallpaper" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026-11-09 1430-spacex-jellyfish-reel.mp4 (cablgram_clip, 27.0s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| Video | SpaceX official X posts https://x.com/i/status/2118868469655433435 (liftoff) and https://x.com/i/status/2118870818021097862 (landing), USSF-432, Nov 6 2026 | SpaceX (@SpaceX) | Official company launch footage, full-length use (own); original audio muted; credited on screen |
+| Music | "Digital Lemonade" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
