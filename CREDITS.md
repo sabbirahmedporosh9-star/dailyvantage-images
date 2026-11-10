@@ -453,3 +453,8 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | 2026/11/10/1430-oregon-zoo-hornbill-reel.mp4 | Oregon Zoo official X post (https://x.com/OregonZoo/status/2118768026803896528, Nov 6, 2026), full 20.6s, original audio muted | official zoo upload, credited "Video: Oregon Zoo" | "Funk Game Loop" Kevin MacLeod (incompetech.com), CC BY 4.0 |
 | 2026/11/10/1730-red-bull-human-catapult-reel.mp4 | Red Bull official X post (https://x.com/redbull/status/2119731733633618106, Nov 9, 2026), 25.2s, original audio muted | official Red Bull upload, credited "Video: Red Bull" | "Raving Energy" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+
+### 2026-11-10 (3pm run)
+| file | footage | basis | music |
+|---|---|---|---|
+| 2026/11/11/0830-cincinnati-zoo-fiona-reel.mp4 | Cincinnati Zoo official X post (https://x.com/CincinnatiZoo/status/2119475184943911392, Nov 8, 2026), 26.0s of the 34.5s clip (8.5s-34.5s), original audio muted | official zoo upload, credited "Video: Cincinnati Zoo" | "Enter the Party" Kevin MacLeod (incompetech.com), CC BY 4.0 |
