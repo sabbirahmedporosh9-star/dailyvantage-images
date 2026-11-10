@@ -422,3 +422,28 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | stock video | Pexels videos 5974766, 6930960, 7817083, 6534946, 7100952, 8052442 (people on phones/video calls) (https://www.pexels.com/video/<id>/) (generic illustrative; not Meta Muse) | Pexels contributors | Pexels License (free use, no attribution required) |
 | Music | "Fluffing a Duck" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+## 2026-11-10
+
+### 2026-11-10 1400-final.jpg (Facebook photo post)
+| image | Commons file page | author | license | photo date |
+|---|---|---|---|---|
+| 1400-final.jpg | https://commons.wikimedia.org/wiki/File:Yoghurts_and_desserts,_Casino_supermarket,_Chamonix-Mont-Blanc,_2007.jpg | DimiTalen | CC0 | 2007-04-04 (illustrative; not an affected store) |
+
+### 2026-11-10 1230-claude-fable-reel.mp4 (kinetic_text, 15.6s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 6325273, 6324536 (whiteboard math), 7649294 (galaxy on helmet), 5495899 (laptop code) (https://www.pexels.com/video/<id>/) (generic illustrative; not Anthropic) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026-11-10 1930-apple-ai-packs-reel.mp4 (news_ticker, 19.4s)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 12330933 (music studio), 8118108 (mixing desk), 6613681 (phone + card), 6406026 (card terminal) (https://www.pexels.com/video/<id>/) (generic illustrative; not Apple) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Sneaky Snitch" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026-11-10 2130-instagram-effect-builder-reel.mp4 (screen_ui, 15.5s; generic UI, not Instagram's)
+| Part | Source | Owner | Basis |
+|---|---|---|---|
+| stock video | Pexels videos 18156336 (phone camera), 3761690 (selfie), 7308225 (phone story editing), 6395959 (selfie) (https://www.pexels.com/video/<id>/) (generic illustrative; not Instagram) | Pexels contributors | Pexels License (free use, no attribution required) |
+| Music | "Pixel Peeker Polka - faster" Kevin MacLeod (incompetech.com) | Kevin MacLeod | Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/ |
