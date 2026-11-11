@@ -481,3 +481,8 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/11/1630-carousel-5-chips-final.jpg | File:Silicon Village (9540184355).jpg, https://commons.wikimedia.org/wiki/File:Silicon_Village_(9540184355).jpg, Jack Spades (2013-08-18) | CC BY 2.0 | - |
 | 2026/11/11/1630-carousel-6-date-final.jpg | File:Nasdaq MarketSite (51494550508).jpg, https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg, ajay_suresh (2021-09-19) | CC BY 2.0 | - |
 | 2026/11/11/1630-carousel-7-follow-final.jpg | brand end card (original) | own | - |
+
+### 2026-11-11 (3pm run)
+| file | footage / photo | basis | music |
+|---|---|---|---|
+| 2026/11/11/2230-ring-drone-cam-reel.mp4 | Ring official "Meet Ring Drone Cam" launch video, @ring post https://x.com/ring/status/2120169654656327764 (Nov 10, 2026), 21.7s of 29.5s, original audio muted, credited "Video: Ring (official, @ring on X)"; facts from aboutamazon.com Nov 10 + Engadget/Verge/TechCrunch | official company promo/demo footage | "Pamgaea" Kevin MacLeod (incompetech.com), CC BY 4.0 |
