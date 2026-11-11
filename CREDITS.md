@@ -463,3 +463,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | file | footage | basis | music |
 |---|---|---|---|
 | 2026/11/11/1230-meta-teen-age-ai-reel.mp4 | Pexels stock clips 10374885, 7362704, 10374888, 15689201 (hands using phones, illustrative), 17.9s | Pexels License | "Voxel Revolution" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+
+### 2026-11-11 (7am run)
+| file | footage | basis | music |
+|---|---|---|---|
+| 2026/11/11/1430-gemini-carbon-reel.mp4 | Pexels stock clips 5377697, 12893579, 15439746, 8347241 (code/screens/abstract, illustrative), 15.1s | Pexels License | "Severe Tire Damage" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/11/1930-chatgpt-business-agents-reel.mp4 | Pexels stock clips 7568746, 7279035, 8937982, 6898096, 6214218, 6406082 (hands shopping/chatting on phones and laptops, illustrative), 19.6s | Pexels License | "Dreamy Flashback" Kevin MacLeod (incompetech.com), CC BY 4.0 |
