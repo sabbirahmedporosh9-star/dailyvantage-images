@@ -469,3 +469,15 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | 2026/11/11/1430-gemini-carbon-reel.mp4 | Pexels stock clips 5377697, 12893579, 15439746, 8347241 (code/screens/abstract, illustrative), 15.1s | Pexels License | "Severe Tire Damage" Kevin MacLeod (incompetech.com), CC BY 4.0 |
 | 2026/11/11/1930-chatgpt-business-agents-reel.mp4 | Pexels stock clips 7568746, 7279035, 8937982, 6898096, 6214218, 6406082 (hands shopping/chatting on phones and laptops, illustrative), 19.6s | Pexels License | "Dreamy Flashback" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+
+### 2026-11-11 (11am run)
+| file | footage / photo | basis | music |
+|---|---|---|---|
+| 2026/11/11/1830-x-clipping-reel.mp4 | X official Clipping launch demo, @XCreators post https://x.com/XCreators/status/2119892170224074832 (Nov 9, 2026), 26.8s of 29.35s, original audio muted, credited "Video: X (@XCreators on X)" | official platform promo/demo footage | "Run Amok" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/11/1630-carousel-1-cover-final.jpg, 1730-anthropic-ipo-final.jpg | File:Dario Amodei in 2023.jpg, https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg, UK Prime Minister (2023-05-24) | CC BY 2.0 | - |
+| 2026/11/11/1630-carousel-2-price-final.jpg | File:Nasdaq Tower May 2026.jpg, https://commons.wikimedia.org/wiki/File:Nasdaq_Tower_May_2026.jpg, Nielsoncaetanosalmeron (2026-05-12) | CC BY 4.0 | - |
+| 2026/11/11/1630-carousel-3-raise-final.jpg | File:BalticServers data center.jpg, BalticServers.com | CC BY-SA 3.0 | - |
+| 2026/11/11/1630-carousel-4-revenue-final.jpg | File:Code on computer monitor (Unsplash).jpg, Markus Spiske | CC0 | - |
+| 2026/11/11/1630-carousel-5-chips-final.jpg | File:Silicon Village (9540184355).jpg, https://commons.wikimedia.org/wiki/File:Silicon_Village_(9540184355).jpg, Jack Spades (2013-08-18) | CC BY 2.0 | - |
+| 2026/11/11/1630-carousel-6-date-final.jpg | File:Nasdaq MarketSite (51494550508).jpg, https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg, ajay_suresh (2021-09-19) | CC BY 2.0 | - |
+| 2026/11/11/1630-carousel-7-follow-final.jpg | brand end card (original) | own | - |
