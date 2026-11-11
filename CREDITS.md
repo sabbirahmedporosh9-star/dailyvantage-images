@@ -486,3 +486,4 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | file | footage / photo | basis | music |
 |---|---|---|---|
 | 2026/11/11/2230-ring-drone-cam-reel.mp4 | Ring official "Meet Ring Drone Cam" launch video, @ring post https://x.com/ring/status/2120169654656327764 (Nov 10, 2026), 21.7s of 29.5s, original audio muted, credited "Video: Ring (official, @ring on X)"; facts from aboutamazon.com Nov 10 + Engadget/Verge/TechCrunch | official company promo/demo footage | "Pamgaea" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/11/2245-adobe-max-agents-reel.mp4 | Pexels stock clips 15162384, 4352291, 7818620, 12893606, 19972051, 7610984, 20765157, 7600545 (people editing photos/video on computers, illustrative), 19.2s; facts from The Verge Nov 10 + Adobe newsroom | Pexels License | "Protofunk" Kevin MacLeod (incompetech.com), CC BY 4.0 |
