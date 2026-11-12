@@ -517,3 +517,5 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|
 | 2026/11/12/2300-gemini-carplay-reel.mp4 | Pexels videos 19162466, 12601920, 3139865, 19797397 (Pexels License, illustrative) | "Easy Lemon" Kevin MacLeod (incompetech.com), CC BY 4.0 |
 | 2026/11/12/0830-alphagenome2-reel.mp4 | Pexels videos 18069473, 8279674, 8852736, 8392769, 8327087, 8863362 (Pexels License, illustrative) | "Wallpaper" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+
+| 2026/11/12/2145-nvidia-huang-resigns-final.jpg | https://commons.wikimedia.org/wiki/File%3AJensen_huang_stanford_2026-04-30_007.jpg | Anderseidesvik | CC BY-SA 4.0 | 2026-04-30 |
