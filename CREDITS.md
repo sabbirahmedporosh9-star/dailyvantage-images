@@ -505,3 +505,8 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | image | Commons file page | author | license | photo date |
 |---|---|---|---|---|
 | 2026/11/12/0950-nvidia-huang-final.jpg | https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_007.jpg | Anderseidesvik | CC BY-SA 4.0 | 2026-04-30 |
+
+### 2026-11-12 (11am run)
+| file | footage | license | music |
+|---|---|---|---|
+| 2026/11/12/1600-iss-final-solar-array-reel.mp4 | NASA / International Space Station video (@Space_Station on X, Nov 10, 2026) https://x.com/Space_Station/status/2120260209608134926 | NASA media, US government work (public domain; NASA media guidelines) | "Floating Cities" Kevin MacLeod (incompetech.com), CC BY 4.0 |
