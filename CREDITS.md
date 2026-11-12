@@ -510,3 +510,4 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | file | footage | license | music |
 |---|---|---|---|
 | 2026/11/12/1600-iss-final-solar-array-reel.mp4 | NASA / International Space Station video (@Space_Station on X, Nov 10, 2026) https://x.com/Space_Station/status/2120260209608134926 | NASA media, US government work (public domain; NASA media guidelines) | "Floating Cities" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/12/1800-astra-space-builder-reel.mp4 | Caltech ASTRA in-space truss builder (lab demo footage) | Video: Caltech / DARPA NOM4D, official Caltech press video https://www.youtube.com/watch?v=pJVvvCYmeHE (credited press use) | Music: Ouroboros - Kevin MacLeod (incompetech.com), CC BY 4.0 |
