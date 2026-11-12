@@ -493,3 +493,10 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | 2026/11/12/1030-uk-ai-coursework-reel.mp4 | Pexels stock clips 7092133, 6963412, 7092101, 5528007, 7092228, 10374892, 7092126, 8266266 (students writing exams, hands typing on laptops, illustrative), 18.9s; facts from The Guardian Nov 11 + Office for Students | Pexels License | "Funky Chunk" Kevin MacLeod (incompetech.com), CC BY 4.0 |
 | 2026/11/12/1330-zelda-ocarina-final.jpg | File:Nintendo Switch 2 - 54432810326.jpg, https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_-_54432810326.jpg, matt beat (2025-04-05) | CC BY 2.0 | - |
+
+### 2026-11-12 (7am run)
+| file | footage / photo | basis | music |
+|---|---|---|---|
+| 2026/11/12/1430-united-ai-agents-reel.mp4 | Pexels stock clips 8044788, 15828510, 8044816, 11642475 (travellers on phones in an airport, plane wing/takeoff, illustrative, no airline branding), 18.0s; facts from united.com AI agents page, The Verge, CNBC Nov 11 | Pexels License | "Digital Lemonade" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/12/1930-aws-emulator-reel.mp4 | Pexels stock clips 7989667, 5377697, 12893579, 15439746 (code on laptops, abstract neon, illustrative), generic UI chrome, 18.0s; facts from aboutamazon.com + AWS What's New Nov 11, GeekWire | Pexels License | "Voltaic" Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/12/2130-tsmc-ai-stakes-reel.mp4 | Pexels stock clips 6755168, 18069803, 7423951 (circuit boards, AI chip visualisation, illustrative), 16.9s; facts from TSMC board resolutions pr.tsmc.com Nov 10, CNA, Ars Technica | Pexels License | "Hitman" Kevin MacLeod (incompetech.com), CC BY 4.0 |
