@@ -535,3 +535,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | --- | --- | --- | --- |
 | 2026/11/13/1500-microsoft-outage-reel.mp4 | Pexels videos 12908958, 7263093, 7172723, 7652166, 5981185 (stock, illustrative) | Pexels License | Movement Proposition - Kevin MacLeod (incompetech.com), CC BY 4.0 |
 | 2026/11/13/1930-worldlabs-atlas-reel.mp4 | World Labs official Atlas launch demo (https://x.com/theworldlabs/status/2120942033401717108), trimmed, credited "Video: World Labs"; AI-generated product footage | Official company promo/demo, credited | Galactic Rap - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+
+### 2026-11-13 3pm run (Reels)
+| file | footage | license | music |
+|---|---|---|---|
+| 2026/11/13/1700-meta-edits-reel.mp4 | Pexels videos 7610987, 13929687, 9384669, 7482042, 12691874 (stock, illustrative) | Pexels License | Fluffing a Duck - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/13/2130-chatgpt-ads-reel.mp4 | Pexels videos 16932755, 7362704, 6586067, 15689201, 13801233 (stock, illustrative) | Pexels License | Itty Bitty 8 Bit - Kevin MacLeod (incompetech.com), CC BY 4.0 |
