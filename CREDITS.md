@@ -530,3 +530,8 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | Image | Source | Author | License | Photo date |
 | --- | --- | --- | --- | --- |
 | 2026/11/13/0945-microsoft-outage-final.jpg | https://commons.wikimedia.org/wiki/File:Microsoft_sign_closeup.jpg | Derrick Coetzee | Public domain (PD-user) | April 2005 |
+
+| File | Footage | License | Music |
+| --- | --- | --- | --- |
+| 2026/11/13/1500-microsoft-outage-reel.mp4 | Pexels videos 12908958, 7263093, 7172723, 7652166, 5981185 (stock, illustrative) | Pexels License | Movement Proposition - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/13/1930-worldlabs-atlas-reel.mp4 | World Labs official Atlas launch demo (https://x.com/theworldlabs/status/2120942033401717108), trimmed, credited "Video: World Labs"; AI-generated product footage | Official company promo/demo, credited | Galactic Rap - Kevin MacLeod (incompetech.com), CC BY 4.0 |
