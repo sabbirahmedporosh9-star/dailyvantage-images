@@ -519,3 +519,10 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/12/0830-alphagenome2-reel.mp4 | Pexels videos 18069473, 8279674, 8852736, 8392769, 8327087, 8863362 (Pexels License, illustrative) | "Wallpaper" Kevin MacLeod (incompetech.com), CC BY 4.0 |
 
 | 2026/11/12/2145-nvidia-huang-resigns-final.jpg | https://commons.wikimedia.org/wiki/File%3AJensen_huang_stanford_2026-04-30_007.jpg | Anderseidesvik | CC BY-SA 4.0 | 2026-04-30 |
+
+## 2026-11-13
+
+| File | Footage | License | Music |
+| --- | --- | --- | --- |
+| 2026/11/13/1230-nvidia-huang-out-reel.mp4 | Pexels videos 8480284, 6755168, 7579943, 7423951 (stock, illustrative) | Pexels License | Volatile Reaction - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/13/1330-gemini-hydrogen-reel.mp4 | Pexels videos 13929579, 12893579, 5377697, 7989667 (stock, illustrative) | Pexels License | Cut and Run - Kevin MacLeod (incompetech.com), CC BY 4.0 |
