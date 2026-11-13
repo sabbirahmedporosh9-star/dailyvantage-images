@@ -541,3 +541,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | 2026/11/13/1700-meta-edits-reel.mp4 | Pexels videos 7610987, 13929687, 9384669, 7482042, 12691874 (stock, illustrative) | Pexels License | Fluffing a Duck - Kevin MacLeod (incompetech.com), CC BY 4.0 |
 | 2026/11/13/2130-chatgpt-ads-reel.mp4 | Pexels videos 16932755, 7362704, 6586067, 15689201, 13801233 (stock, illustrative) | Pexels License | Itty Bitty 8 Bit - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+
+### 2026-11-13 7pm run (Reels)
+| file | footage | license | music |
+|---|---|---|---|
+| 2026/11/13/2300-spacex-ai-campuses-reel.mp4 | Pexels videos 1085656, 10781836, 5028622, 7066709, 7140928, 12037098 (stock, illustrative) | Pexels License | Exit the Premises - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/13/0930-gemini-glasses-reel.mp4 | Pexels videos 8279428, 7823714, 7431692, 7846002 (stock, illustrative; not the Gemini glasses) | Pexels License | Newer Wave - Kevin MacLeod (incompetech.com), CC BY 4.0 |
