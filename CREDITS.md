@@ -526,3 +526,7 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | --- | --- | --- | --- |
 | 2026/11/13/1230-nvidia-huang-out-reel.mp4 | Pexels videos 8480284, 6755168, 7579943, 7423951 (stock, illustrative) | Pexels License | Volatile Reaction - Kevin MacLeod (incompetech.com), CC BY 4.0 |
 | 2026/11/13/1330-gemini-hydrogen-reel.mp4 | Pexels videos 13929579, 12893579, 5377697, 7989667 (stock, illustrative) | Pexels License | Cut and Run - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+
+| Image | Source | Author | License | Photo date |
+| --- | --- | --- | --- | --- |
+| 2026/11/13/0945-microsoft-outage-final.jpg | https://commons.wikimedia.org/wiki/File:Microsoft_sign_closeup.jpg | Derrick Coetzee | Public domain (PD-user) | April 2005 |
