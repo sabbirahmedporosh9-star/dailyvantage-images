@@ -570,3 +570,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|
 | 2026/11/14/1830-tesla-cybercab-reel.mp4 | Tesla official @robotaxi X video https://x.com/robotaxi/status/2120736143566344324 (~3s of Cybercab driving); Pexels videos 32024439, 26448343, 6613681, 33016018, 19546046 (stock, illustrative); music "Rhinoceros" Kevin MacLeod (incompetech.com) | Official company footage, credited; Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
 | 2026/11/14/2130-rocky-record-reel.mp4 | Pexels videos 7866003, 7865998, 37258721, 7866005, 37258793, 37261867 (stock, illustrative; not event footage, no film footage); music "Pinball Spring" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026-11-14 7pm batch
+| File | Source | License |
+|---|---|---|
+| 2026/11/14/2130-facestealer-reel.mp4 | Pexels videos 8513116, 6331338, 8522975, 5377683, 6120121 (stock, illustrative); music "Voxel Revolution" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/14/0830n-panther-leap-reel.mp4 | U.S. Fish and Wildlife Service trail camera video, Florida Panther National Wildlife Refuge (https://www.facebook.com/reel/2047865682580944, posted Nov 12, 2026); full clip + slow-motion replays; music "Sneaky Snitch" Kevin MacLeod (incompetech.com) | U.S. federal government work (public domain), credited; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
