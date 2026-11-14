@@ -564,3 +564,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/14/carousel/1100-1-cover, 1100-2-starship | Video stills from SpaceX official Starship Flight 15 videos on X | Official company footage, credited |
 | 2026/11/14/carousel/1100-3-outage, 4-wallet, 5-glasses | Pexels video stills 7263093, 6898096, 8279428 (stock, illustrative) | Pexels License |
 | 2026/11/14/carousel/1100-6-follow | Original brand card | The Daily Vantage |
+
+### 2026-11-14 3pm batch
+| File | Source | License |
+|---|---|---|
+| 2026/11/14/1830-tesla-cybercab-reel.mp4 | Tesla official @robotaxi X video https://x.com/robotaxi/status/2120736143566344324 (~3s of Cybercab driving); Pexels videos 32024439, 26448343, 6613681, 33016018, 19546046 (stock, illustrative); music "Rhinoceros" Kevin MacLeod (incompetech.com) | Official company footage, credited; Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/14/2130-rocky-record-reel.mp4 | Pexels videos 7866003, 7865998, 37258721, 7866005, 37258793, 37261867 (stock, illustrative; not event footage, no film footage); music "Pinball Spring" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
