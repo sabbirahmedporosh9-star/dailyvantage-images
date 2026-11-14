@@ -547,3 +547,9 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | 2026/11/13/2300-spacex-ai-campuses-reel.mp4 | Pexels videos 1085656, 10781836, 5028622, 7066709, 7140928, 12037098 (stock, illustrative) | Pexels License | Exit the Premises - Kevin MacLeod (incompetech.com), CC BY 4.0 |
 | 2026/11/13/0930-gemini-glasses-reel.mp4 | Pexels videos 8279428, 7823714, 7431692, 7846002 (stock, illustrative; not the Gemini glasses) | Pexels License | Newer Wave - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+
+### 2026-11-14 7am run (Reels)
+| file | footage | license | music |
+|---|---|---|---|
+| 2026/11/14/1230-starship-flight15-reel.mp4 | SpaceX official Flight 15 videos on X (@SpaceX posts 2121374779680964991 liftoff, 2121376372576915909 booster splashdown, 2121387537235406928 views in space), trimmed, muted, credited "Video: SpaceX" | Official company press/launch footage, trimmed and credited | Raving Energy - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+| 2026/11/14/1600-chatgpt-wallet-reel.mp4 | Pexels videos 7534961, 6898096, 7669659, 6612457, 6602242 (stock, illustrative; generic UI, not OpenAI's app) | Pexels License | Bit Shift - Kevin MacLeod (incompetech.com), CC BY 4.0 |
