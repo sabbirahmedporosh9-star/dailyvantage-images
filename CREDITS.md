@@ -553,3 +553,5 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|---|
 | 2026/11/14/1230-starship-flight15-reel.mp4 | SpaceX official Flight 15 videos on X (@SpaceX posts 2121374779680964991 liftoff, 2121376372576915909 booster splashdown, 2121387537235406928 views in space), trimmed, muted, credited "Video: SpaceX" | Official company press/launch footage, trimmed and credited | Raving Energy - Kevin MacLeod (incompetech.com), CC BY 4.0 |
 | 2026/11/14/1600-chatgpt-wallet-reel.mp4 | Pexels videos 7534961, 6898096, 7669659, 6612457, 6602242 (stock, illustrative; generic UI, not OpenAI's app) | Pexels License | Bit Shift - Kevin MacLeod (incompetech.com), CC BY 4.0 |
+
+| 2026/11/14/0950-faa-ground-stop-final.jpg | https://commons.wikimedia.org/wiki/File:AirTraffic-8.jpg | U.S. Federal Government (FAA) | Public domain (17 U.S.C. 105) | unknown |
