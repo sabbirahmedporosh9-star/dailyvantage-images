@@ -555,3 +555,12 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/14/1600-chatgpt-wallet-reel.mp4 | Pexels videos 7534961, 6898096, 7669659, 6612457, 6602242 (stock, illustrative; generic UI, not OpenAI's app) | Pexels License | Bit Shift - Kevin MacLeod (incompetech.com), CC BY 4.0 |
 
 | 2026/11/14/0950-faa-ground-stop-final.jpg | https://commons.wikimedia.org/wiki/File:AirTraffic-8.jpg | U.S. Federal Government (FAA) | Public domain (17 U.S.C. 105) | unknown |
+
+### 2026-11-14 11am batch
+| File | Source | License |
+|---|---|---|
+| 2026/11/14/1430-faa-ground-stop-reel.mp4 | Pexels videos 11992948, 17551136, 13830214, 18962668, 11861469 (stock, illustrative); music "Industrial Revolution" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/14/1900-gta6-countdown-reel.mp4 | Pexels videos 7774738, 8128417, 9070658, 9071003, 7774567 (stock, illustrative; no Rockstar footage); music "Take a Chance" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/14/carousel/1100-1-cover, 1100-2-starship | Video stills from SpaceX official Starship Flight 15 videos on X | Official company footage, credited |
+| 2026/11/14/carousel/1100-3-outage, 4-wallet, 5-glasses | Pexels video stills 7263093, 6898096, 8279428 (stock, illustrative) | Pexels License |
+| 2026/11/14/carousel/1100-6-follow | Original brand card | The Daily Vantage |
