@@ -576,3 +576,12 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|
 | 2026/11/14/2130-facestealer-reel.mp4 | Pexels videos 8513116, 6331338, 8522975, 5377683, 6120121 (stock, illustrative); music "Voxel Revolution" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
 | 2026/11/14/0830n-panther-leap-reel.mp4 | U.S. Fish and Wildlife Service trail camera video, Florida Panther National Wildlife Refuge (https://www.facebook.com/reel/2047865682580944, posted Nov 12, 2026); full clip + slow-motion replays; music "Sneaky Snitch" Kevin MacLeod (incompetech.com) | U.S. federal government work (public domain), credited; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+
+## 2026-11-15
+
+### 2026-11-15 7am batch
+| File | Source | License |
+|---|---|---|
+| 2026/11/15/1100-starship-catch-reel.mp4 | SpaceX official X videos of Starship Flight 15 return: https://x.com/SpaceX/status/2121715216597827756 (catch), https://x.com/SpaceX/status/2121714305968304321 (final approach), https://x.com/SpaceX/status/2121709368945385477 (reentry, cropped to onboard view); trimmed, muted; music "Volatile Reaction" Kevin MacLeod (incompetech.com) | Official company footage, credited; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/15/1430-openai-robotics-reel.mp4 | Pexels videos 8328103, 8087025, 8979540, 8087073, 8328144 (stock, illustrative; not OpenAI hardware); music "Hitman" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/15/1700-matpat-patchat-reel.mp4 | Pexels videos 10145285, 6325290, 4994156, 13929687, 9384669 (stock, illustrative; not MatPat/PatChat footage); music "Funk Game Loop" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
