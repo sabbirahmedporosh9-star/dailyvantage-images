@@ -607,3 +607,8 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/16/carousel/1100-2-vulcan-final.jpg | Still from NASA KSC-20240108-VP-MMS01-0001 (ULA Vulcan on pad, Jan 2024 archive) | NASA media (public domain) with ULA feed, credited |
 | 2026/11/16/carousel/1100-3-italy-final.jpg, 1100-4-muse-final.jpg | Stills from Pexels videos 10374888 and 5404974 (stock, illustrative) | Pexels License |
 | 2026/11/16/carousel/1100-6-follow-final.jpg | Original brand card | The Daily Vantage |
+
+| File | Source | License |
+|---|---|---|
+| 2026/11/16/1730-raj-shamani-reel.mp4 | Pexels videos 6892735, 12330879, 6878736, 7586495, 6948555 (stock, illustrative; no Figuring Out footage); music "Enter the Party" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/16/2100-qwen4-max-reel.mp4 | Pexels videos 15439746, 5377697, 4841217, 8347239, 12893579 (stock, illustrative); music "Voxel Revolution" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
