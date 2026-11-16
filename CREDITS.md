@@ -589,3 +589,11 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/15/1950-meta-italy-fine-reel.mp4 | Pexels videos 10374888, 20438548, 3627321, 9785305, 10374885, 6115070 (stock, illustrative; not Meta/Facebook footage); music "Cut and Run" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
 | 2026/11/15/2130-huang-petition-reel.mp4 | Pexels videos 6755168, 6573992, 7423951, 6177731 (stock, illustrative; not Nvidia footage); music "Newer Wave" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
 | 2026/11/16/0830-muse-calls-reel.mp4 | Pexels videos 5404974, 7660480, 10397453, 7820502, 12405675 (stock, illustrative; not Meta/Muse footage); music "Funky Chunk" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+
+## 2026-11-16
+
+### 2026-11-16 7am batch
+| File | Source | License |
+|---|---|---|
+| 2026/11/16/1030-vulcan-fail-reel.mp4 | NASA KSC video KSC-20240108-VP-MMS01-0001 (CLPS Peregrine Mission One / ULA Vulcan live launch coverage, Jan 8 2024; archive footage of Vulcan's first launch, not the Nov 15 2026 flight), https://images.nasa.gov/details/KSC-20240108-VP-MMS01-0001-CLPS_PM1_Astrobotic_ULA_Vulcan_Live_Launch_Coverage_4K_NASAShow-M3159 ; Pexels video 20349219 (Earth, stock); music "Severe Tire Damage" Kevin MacLeod (incompetech.com) | NASA media (public domain, US gov) with ULA launch feed, credited NASA / ULA; Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/16/1330-alvin-ai-reel.mp4 | Pexels videos 8911927, 4012943, 13801233, 10374888, 4012939, 17512949 (stock, illustrative; no Alvin and the Chipmunks footage); music "Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
