@@ -597,3 +597,13 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 |---|---|---|
 | 2026/11/16/1030-vulcan-fail-reel.mp4 | NASA KSC video KSC-20240108-VP-MMS01-0001 (CLPS Peregrine Mission One / ULA Vulcan live launch coverage, Jan 8 2024; archive footage of Vulcan's first launch, not the Nov 15 2026 flight), https://images.nasa.gov/details/KSC-20240108-VP-MMS01-0001-CLPS_PM1_Astrobotic_ULA_Vulcan_Live_Launch_Coverage_4K_NASAShow-M3159 ; Pexels video 20349219 (Earth, stock); music "Severe Tire Damage" Kevin MacLeod (incompetech.com) | NASA media (public domain, US gov) with ULA launch feed, credited NASA / ULA; Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
 | 2026/11/16/1330-alvin-ai-reel.mp4 | Pexels videos 8911927, 4012943, 13801233, 10374888, 4012939, 17512949 (stock, illustrative; no Alvin and the Chipmunks footage); music "Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+
+### 2026-11-16 11am batch
+| File | Source | License |
+|---|---|---|
+| 2026/11/16/1530-groot2-reel.mp4 | NVIDIA official X video "Meet GR00T 2" https://x.com/nvidia/status/2121319866712076769 (34.9s, trimmed to 24.1s, real robot footage, no original audio); music "Raving Energy" Kevin MacLeod (incompetech.com) | Official company demo footage, credited NVIDIA; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/16/1900-giken-bike-reel.mp4 | GIKEN LTD. official YouTube video "ECO Bicycle Parking EN" https://www.youtube.com/watch?v=EY2AYA0O-VY (2013, 601s; trimmed to 26.6s of booth/robot footage, original audio muted); music "Fluffing a Duck" Kevin MacLeod (incompetech.com) | Official company product footage, credited GIKEN LTD.; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/16/carousel/1100-1-cover-final.jpg, 1100-5-groot-final.jpg | Stills from NVIDIA official GR00T 2 video (above) | Official company footage, credited |
+| 2026/11/16/carousel/1100-2-vulcan-final.jpg | Still from NASA KSC-20240108-VP-MMS01-0001 (ULA Vulcan on pad, Jan 2024 archive) | NASA media (public domain) with ULA feed, credited |
+| 2026/11/16/carousel/1100-3-italy-final.jpg, 1100-4-muse-final.jpg | Stills from Pexels videos 10374888 and 5404974 (stock, illustrative) | Pexels License |
+| 2026/11/16/carousel/1100-6-follow-final.jpg | Original brand card | The Daily Vantage |
