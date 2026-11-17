@@ -619,3 +619,5 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | File | Source | License |
 |---|---|---|
 | 2026/11/17/0830-korea-ai-exam-reel.mp4 | Pexels videos 7092104, 18069700, 6830019 (stock, illustrative; no exam or person footage from the story); music "Sneaky Snitch" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/17/1030-ig-amazon-links-reel.mp4 | Pexels videos 6898096, 9384669, 7287513, 6214218, 7362808 (stock, illustrative; generic UI, no Instagram/Amazon footage); music "Protofunk" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/17/1230-voyager-light-day-reel.mp4 | NASA/JPL-Caltech b-roll JPL-20240425-VOYAGEf-0001 (Voyager team receiving engineering data, Apr 20 2024; images.nasa.gov) + Pexels videos 18308551, 19182136, 14374617, 19333396, 6624848 (stock, illustrative); music "Floating Cities" Kevin MacLeod (incompetech.com) | NASA media guidelines (public b-roll, credited NASA/JPL-Caltech); Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
