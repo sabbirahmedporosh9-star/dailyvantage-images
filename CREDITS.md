@@ -628,3 +628,5 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/17/carousel/2000-3-openai-final.jpg, 2000-4-instagram-final.jpg, 2000-6-korea-final.jpg | Stills from Pexels videos 8347239, 6898096, 7092104 (stock, illustrative) | Pexels License |
 | 2026/11/17/carousel/2000-5-voyager-final.jpg | Still from NASA/JPL-Caltech b-roll JPL-20240425-VOYAGEf-0001 (Apr 2024) | NASA media guidelines, credited NASA/JPL-Caltech |
 | 2026/11/17/carousel/2000-7-follow-final.jpg | Original branded card | The Daily Vantage |
+| 2026/11/17/1630-siri-limits-reel.mp4 | Pexels videos 6279146, 6611951, 7279035, 6611945 (stock, illustrative), edited zoom_reveal with overlays; music "Pamgaea" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/17/1830-maps-trips-reel.mp4 | Pexels videos 4546864, 13229471, 5834558, 7046601, 4546853, 20337851 (stock, illustrative), edited fast_cut_beat with overlays; music "Take a Chance" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
