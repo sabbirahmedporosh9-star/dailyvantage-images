@@ -632,3 +632,11 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/17/1830-maps-trips-reel.mp4 | Pexels videos 4546864, 13229471, 5834558, 7046601, 4546853, 20337851 (stock, illustrative), edited fast_cut_beat with overlays; music "Take a Chance" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
 | 2026/11/17/2045-optimizely-reel.mp4 | Pexels videos 5377683, 8937985, 5925283, 6799742, 8937986, 6995103, 8370040 (stock, illustrative), edited glitch_tech with overlays; music "Bit Shift" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
 | 2026/11/17/2215-openai-researchers-reel.mp4 | Pexels videos 5752055, 8198819, 6130312, 8326454, 6549266, 8852658 (stock, illustrative), edited kinetic_text with overlays; music "Digital Lemonade" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+
+## 2026-11-18
+
+| File | Source | License |
+|---|---|---|
+| 2026/11/18/0830-nvidia-earnings-reel.mp4 | Pexels videos 8480284, 6755168, 8348727, 7423951, 5377697, 8347241 (stock, illustrative; no Nvidia footage), edited news_ticker with overlays; music "Voltaic" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/18/1030-mechazilla-view-reel.mp4 | SpaceX official video "Views from Mechazilla of the first ever Starship catch" (x.com/i/status/2122427170328883425, both camera views, Nov 16 2026), trimmed with overlays; music "Industrial Revolution" Kevin MacLeod (incompetech.com) | SpaceX official public release, credited "Video: SpaceX"; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
+| 2026/11/18/1230-ig-content-protection-reel.mp4 | Pexels videos 7482042, 10374888, 13929660, 17512949, 6325290, 7234088 (stock, illustrative; no Instagram UI), edited split_screen with overlays; music "Funky Chunk" Kevin MacLeod (incompetech.com) | Pexels License; music CC BY 4.0 http://creativecommons.org/licenses/by/4.0/ |
