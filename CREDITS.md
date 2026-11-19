@@ -664,3 +664,17 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | Stock video 7568746, 8994266, 12908968, 7218429, 9146513, 6342210 | pexels.com/video/<id> | Pexels contributors | Pexels License |
 | Music: Funk Game Loop | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Funk Game Loop" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Generic illustrative UI ("TRY-ON"), not Meta's app. Facts: Alexandr Wang on X 2026-11-18 (x.com/alexandr_wang/status/2123138025366704149); ShopBack press 2026-11-18 (Muse launches in Australia); Vogue/Fortune (checkout after user approval).
+
+### 2026-11-19 7pm: 2026/11/19/2130-chatgpt-live-dictation-reel.mp4 (kinetic_text, 15.0s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video 7924463, 13929848, 7362704, 6962433, 8090593 | pexels.com/video/<id> | Pexels contributors | Pexels License |
+| Music: Protofunk | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Protofunk" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: OpenAI ChatGPT release notes 2026-11-18 (help.openai.com/en/articles/6825453-chatgpt-release-notes); 9to5Mac 2026-11-18. No ChatGPT UI shown.
+
+### 2026-11-19 7pm: 2026/11/20/0830-genie-4-reel.mp4 (zoom_reveal, 14.6s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video 7236940, 11856435, 5212998, 7240998, 7774618, 8128024 | pexels.com/video/<id> | Pexels contributors | Pexels License |
+| Music: Volatile Reaction | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Volatile Reaction" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Google blog 2026-11-18 "Genie 4 is now available" (blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/); Google Labs help; The Next Web. No Genie footage used.
