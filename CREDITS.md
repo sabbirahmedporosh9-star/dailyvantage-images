@@ -657,3 +657,10 @@ Modifications: cropped/resized (1080x1350 posts, 1080x1920 Reels), zoom/pan, des
 | 2026/11/19/carousel/1730-*-final.jpg | IG carousel "Today in tech & space": stills from Starlink official video x.com/Starlink/status/2122446093648875712 (cover, slide 4), Rocket Lab official video x.com/RocketLab/status/2123141853528871143 (slide 6); Pexels video frames 7947464 (slide 2), 7989706 (slide 3), 7714818 (slide 5, illustrative); follow card own design | SpaceX/Starlink and Rocket Lab official public releases credited; Pexels License |
 
 | 2026-11-19 | 1345-gta6-twitch-record-reel.mp4 | Pexels stock 8128342, 7774564, 9071005, 8128031, 8128495, 8128024 (Pexels licence) | Music: Kevin MacLeod "Hitman" (incompetech.com, CC BY 4.0) |
+
+### 2026-11-19 3pm: 1830-meta-muse-tryon-reel.mp4 (screen_ui, 16.0s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video 7568746, 8994266, 12908968, 7218429, 9146513, 6342210 | pexels.com/video/<id> | Pexels contributors | Pexels License |
+| Music: Funk Game Loop | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Funk Game Loop" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Generic illustrative UI ("TRY-ON"), not Meta's app. Facts: Alexandr Wang on X 2026-11-18 (x.com/alexandr_wang/status/2123138025366704149); ShopBack press 2026-11-18 (Muse launches in Australia); Vogue/Fortune (checkout after user approval).
