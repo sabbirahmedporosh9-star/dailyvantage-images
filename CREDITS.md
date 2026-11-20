@@ -678,3 +678,17 @@ Facts: OpenAI ChatGPT release notes 2026-11-18 (help.openai.com/en/articles/6825
 | Stock video 7236940, 11856435, 5212998, 7240998, 7774618, 8128024 | pexels.com/video/<id> | Pexels contributors | Pexels License |
 | Music: Volatile Reaction | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Volatile Reaction" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: Google blog 2026-11-18 "Genie 4 is now available" (blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/); Google Labs help; The Next Web. No Genie footage used.
+
+### 2026-11-20 7am: 2026/11/20/0930-anthropic-first-trade-reel.mp4 (fast_cut_beat, 16.3s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video 8480284, 16932755, 5716235, 8348727, 19933502 | pexels.com/video/<id> | Pexels contributors | Pexels License |
+| Music: Severe Tire Damage | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Severe Tire Damage" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: CNBC live coverage 2026-11-19 (cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html): opened $111.50, closed $97.17 (+17%), $81.3B raised, 980M shares at $83, 846M+ shares traded vs SpaceX 522M, 7th most valuable US company; Nasdaq newsroom (opened $111.50); AP, Yahoo Finance, Reuters via Al Jazeera (close $97.17, largest IPO in history). Illustrative stock only.
+
+### 2026-11-20 7am: 2026/11/20/1230-andarium-android-iphone-reel.mp4 (meme_casual, 16.6s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video 6278834, 7047796, 6611949, 9071007, 6146499 | pexels.com/video/<id> | Pexels contributors | Pexels License |
+| Music: Sneaky Snitch | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Sneaky Snitch" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Apple App Store listing apps.apple.com/us/app/andarium/id6827505184 (free, Android 17 based on LineageOS, runs locally, APK from Files, A14+/iPhone 12+, iOS 27+, source github.com/imxieyi/Kernarium, Yi Xie); Kod.ru (on App Store since Nov 18); JamOnline.ph 2026-11-20. No app UI shown.
