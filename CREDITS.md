@@ -715,3 +715,17 @@ Facts: guinnessworldrecords.com news 2026-11-19 "Speed-painter celebrates GWR Da
 | 3 Gemini | Pexels video 5303840 frame | Pexels License |
 | 4 Andarium | Pexels video 6278834 frame | Pexels License |
 | 6 follow card | brand logo | own |
+
+### 2026-11-20 3pm: 2026/11/20/1630-google-suncatcher-reel.mp4 (news_ticker, 17.0s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative) | Pexels 20349219, 20349276, 10470834, 9790202, 18308552, 5377697 | Pexels contributors | Pexels License |
+| Music: Bit Shift | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Bit Shift" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: blog.google 2026-11-19 (Travis Beals, Project Suncatcher x Blue Origin); The Verge 2026-11-19; Via Satellite 2026-11-19; SpaceNews 2026-11-19.
+
+### 2026-11-20 3pm: 2026/11/20/2100-gta6-2billion-reel.mp4 (split_screen, 17.8s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative; no game footage) | Pexels 8128031, 7774567, 8128417, 9071005, 12936927, 9620605 | Pexels contributors | Pexels License |
+| Music: Pamgaea | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Pamgaea" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: BBC News 2026-11-20 "GTA 6 breaks records as estimated sales top $2.3bn" (Sensor Tower estimate); Anadolu Agency 2026-11-20; The Straits Times (GTA 5 ~$800M day one).
