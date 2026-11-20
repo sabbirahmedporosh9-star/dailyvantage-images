@@ -692,3 +692,26 @@ Facts: CNBC live coverage 2026-11-19 (cnbc.com/2026/11/19/anthropic-ipo-ant-live
 | Stock video 6278834, 7047796, 6611949, 9071007, 6146499 | pexels.com/video/<id> | Pexels contributors | Pexels License |
 | Music: Sneaky Snitch | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Sneaky Snitch" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: Apple App Store listing apps.apple.com/us/app/andarium/id6827505184 (free, Android 17 based on LineageOS, runs locally, APK from Files, A14+/iPhone 12+, iOS 27+, source github.com/imxieyi/Kernarium, Yi Xie); Kod.ru (on App Store since Nov 18); JamOnline.ph 2026-11-20. No app UI shown.
+
+### 2026-11-20 11am: 2026/11/20/1430-gemini-mac-computer-use-reel.mp4 (countdown_list, 18.1s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video 5303840, 10374886, 6633341, 12896410, 7576801, 5495901 | pexels.com/video/<id> | Pexels contributors | Pexels License |
+| Music: Wallpaper | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Wallpaper" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Google blog 2026-11-19 "Let Gemini tackle repetitive chores on your Mac" (blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/); TechCrunch 2026-11-19. No Gemini UI shown.
+
+### 2026-11-20 11am: 2026/11/20/1900-gwr-liberty-speedpaint-reel.mp4 (cablgram_story, 25.8s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Video (official upload, original audio muted, trimmed/speed-ramped, credited) | x.com/GWR/status/2123393602982232314 | Guinness World Records (@GWR) / David Garibaldi | Official brand/press footage (not open-licensed); credited "Video: Guinness World Records" |
+| Music: Fluffing a Duck | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Fluffing a Duck" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: guinnessworldrecords.com news 2026-11-19 "Speed-painter celebrates GWR Day by making Statue of Liberty portrait in under 1 minute"; UPI 2026-11-19; Yahoo 2026-11-19.
+
+### 2026-11-20 11am: IG carousel 2026/11/20/1730-carousel-[1-6]-*-final.jpg
+| Slide | Image source | License |
+|---|---|---|
+| 1 cover, 5 GWR | video stills from x.com/GWR/status/2123393602982232314 (Guinness World Records) | Official footage, credited |
+| 2 Anthropic | Pexels video 8480284 frame | Pexels License |
+| 3 Gemini | Pexels video 5303840 frame | Pexels License |
+| 4 Andarium | Pexels video 6278834 frame | Pexels License |
+| 6 follow card | brand logo | own |
