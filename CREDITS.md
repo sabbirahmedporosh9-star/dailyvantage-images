@@ -736,3 +736,24 @@ Facts: BBC News 2026-11-20 "GTA 6 breaks records as estimated sales top $2.3bn" 
 | Stock video (illustrative; no Signal UI) | Pexels 6624858, 7279035, 5377775, 6586070, 7822022, 6611940 | Pexels contributors | Pexels License |
 | Music: Voltaic | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Voltaic" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: signal.org/blog/protecting-your-privacy (Meredith Whittaker, 2026-11-20); TechCrunch 2026-11-21.
+
+### 2026-11-22 7pm: 2026/11/22/2130-instagram-story-edit-reel.mp4 (zoom_reveal, 18.9s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative; no Instagram UI) | Pexels 13929657, 6611949, 7362704, 16407857, 8938179, 17808481 | Pexels contributors | Pexels License |
+| Music: Funky Chunk | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Funky Chunk" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: The Verge 2026-11-18 (Adam Mosseri announcement); 9to5Mac 2026-11-18; ETV Bharat 2026-11-19 / tbreak ("Edited" label).
+
+### 2026-11-22 7pm: 2026/11/22/2230-tiktok-ai-check-reel.mp4 (screen_ui, 17.7s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative; generic UI, no TikTok UI) | Pexels 13929687, 13929660, 6611951, 13929655, 5794444, 13929685 | Pexels contributors | Pexels License |
+| Music: Take a Chance | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Take a Chance" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: TikTok Newsroom 2026-11-20 "More tools to provide clarity and control around AI-generated content" (transparency checker, VeraDura watermark + C2PA, Likeness Detection global rollout, 5B+ AI videos labelled).
+
+### 2026-11-22 7pm: 2026/11/22/0830-inkling-mini-laptop-reel.mp4 (kinetic_text, 17.5s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative) | Pexels 5495890, 11292266, 5495899, 4165833, 5377697 | Pexels contributors | Pexels License |
+| Music: Newer Wave | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Newer Wave" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: thinkingmachines.ai/news/inkling-2-mini (2026-11-20); Inkling 2 Mini model card (26.4B/3.4B active, ~20GB, Apple silicon 32GB+, Apache 2.0); VentureBeat 2026-11-21.
