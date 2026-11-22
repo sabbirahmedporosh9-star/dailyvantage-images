@@ -729,3 +729,10 @@ Facts: blog.google 2026-11-19 (Travis Beals, Project Suncatcher x Blue Origin); 
 | Stock video (illustrative; no game footage) | Pexels 8128031, 7774567, 8128417, 9071005, 12936927, 9620605 | Pexels contributors | Pexels License |
 | Music: Pamgaea | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Pamgaea" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: BBC News 2026-11-20 "GTA 6 breaks records as estimated sales top $2.3bn" (Sensor Tower estimate); Anadolu Agency 2026-11-20; The Straits Times (GTA 5 ~$800M day one).
+
+### 2026-11-22 7pm: 2026/11/22/2000-signal-screenshots-reel.mp4 (glitch_tech, 17.2s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative; no Signal UI) | Pexels 6624858, 7279035, 5377775, 6586070, 7822022, 6611940 | Pexels contributors | Pexels License |
+| Music: Voltaic | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Voltaic" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: signal.org/blog/protecting-your-privacy (Meredith Whittaker, 2026-11-20); TechCrunch 2026-11-21.
