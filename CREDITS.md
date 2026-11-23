@@ -799,3 +799,17 @@ Facts: Lean & Mathlib communities joint statement 2026-11-21 (leanprover-communi
 | 6 Boom | Pexels video 16403223 (frame, generic airliner engine, not Boom's) | Pexels contributor | Pexels License |
 | 7 follow | brand/logo.png | The Daily Vantage | own |
 Facts: Lean community 2026-11-21; Comcast 2026-11-20; MacRumors 2026-11-21; Google Home Help 2026-11-20; Aviation Week 2026-11-22 (Boom Sprint Core light-off Nov 21, Scholl "less than a 50% chance").
+
+### 2026-11-23 3pm: Reel 2026/11/23/1800-spacex-pad-record-reel.mp4 (cablgram_clip, 26.3s)
+| Item | Source | Author | License/basis |
+|---|---|---|---|
+| Footage | SpaceX official X post "Liftoff!" (USSF-317, Nov 20 PT) x.com/SpaceX/status/2123995383625924847 | SpaceX | Official company launch footage (press/promo), original audio muted, credited "Video: SpaceX" |
+| Music: Industrial Revolution | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Industrial Revolution" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: SpaceX mission pages ussf317 / nrol136; NRO press release 2026-11-22; Space.com 2026-11-23 (Kiko Dontchev: 32 hr 3 min 21 sec, previous record 45 hrs from Pad 40, next goal 24 hr).
+
+### 2026-11-23 3pm: Reel 2026/11/23/2300-ai-agents-zero-day-reel.mp4 (news_ticker, 16.9s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative; no real people from the story) | Pexels 5925283, 5377683, 6331006, 8347241, 6331338 | Pexels contributors | Pexels License |
+| Music: Hitman | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Hitman" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: AWS Security Blog 2026-11-20 "Chinese-nexus actor's Cairn AI agents found a zero-day on their own"; The Register 2026-11-20; MONAI Label advisory GHSA-qc22-rmgc-vg94 / release 0.8.6.
