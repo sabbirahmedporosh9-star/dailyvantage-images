@@ -757,3 +757,26 @@ Facts: TikTok Newsroom 2026-11-20 "More tools to provide clarity and control aro
 | Stock video (illustrative) | Pexels 5495890, 11292266, 5495899, 4165833, 5377697 | Pexels contributors | Pexels License |
 | Music: Newer Wave | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Newer Wave" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: thinkingmachines.ai/news/inkling-2-mini (2026-11-20); Inkling 2 Mini model card (26.4B/3.4B active, ~20GB, Apple silicon 32GB+, Apache 2.0); VentureBeat 2026-11-21.
+
+## 2026-11-23
+
+### 2026-11-23 7am: 2026/11/23/1230-gta6-comcast-record-reel.mp4 (meme_casual, 15.1s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative) | Pexels 8128024, 9070658, 8757853, 7774567, 7240998, 8128417 | Pexels contributors | Pexels License |
+| Music: Run Amok | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Run Amok" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Comcast 2026-11-20 "The Biggest Day in Internet History" (corporate.comcast.com); The Verge 2026-11-21.
+
+### 2026-11-23 7am: 2026/11/23/1930-siri-settlement-reel.mp4 (countdown_list, 18.0s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative; no Apple UI) | Pexels 6278948, 6266251, 10374885, 6612199, 6700011 | Pexels contributors | Pexels License |
+| Music: Digital Lemonade | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Digital Lemonade" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: MacRumors 2026-11-21 (settlement terms, $61 estimate, Dec 21 deadline, Feb 24 2027 hearing); The Verge 2026-11-22.
+
+### 2026-11-23 7am: 2026/11/23/2130-google-assistant-speakers-reel.mp4 (fast_cut_beat, 15.9s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative; generic speaker) | Pexels 6855615, 13441354, 6856842, 7551701, 6857117 | Pexels contributors | Pexels License |
+| Music: Raving Energy | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Raving Energy" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Google Home Help "Google Assistant transition to Gemini for Home" and "Nest app transition to the Google Home app" (2026-11-20); The Verge 2026-11-20.
