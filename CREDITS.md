@@ -813,3 +813,19 @@ Facts: SpaceX mission pages ussf317 / nrol136; NRO press release 2026-11-22; Spa
 | Stock video (illustrative; no real people from the story) | Pexels 5925283, 5377683, 6331006, 8347241, 6331338 | Pexels contributors | Pexels License |
 | Music: Hitman | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Hitman" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: AWS Security Blog 2026-11-20 "Chinese-nexus actor's Cairn AI agents found a zero-day on their own"; The Register 2026-11-20; MONAI Label advisory GHSA-qc22-rmgc-vg94 / release 0.8.6.
+
+### 2026-11-23 7pm: Reel 2026/11/23/2200-crowdstrike-zscaler-reel.mp4 (zoom_reveal, 17.7s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative; no real people from the story) | Pexels 8348727, 5377697, 8480284, 8266177, 8480283 | Pexels contributors | Pexels License |
+| Music: Volatile Reaction | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Volatile Reaction" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: CrowdStrike IR press release 2026-11-23 (CrowdStrike to Acquire Zscaler, ~$43.9B all-stock, 1.135 shares, ~34% premium, >$10B combined ARR); Reuters 2026-11-23 (biggest cybersecurity acquisition on record, close expected 2H 2027); CRN 2026-11-23 (tops Google's $32B Wiz).
+
+## 2026-11-24
+
+### 2026-11-23 7pm: Reel 2026/11/24/1000-xsquare-robot-reel.mp4 (cablgram_clip, 25.8s)
+| Item | Source | Author | License/basis |
+|---|---|---|---|
+| Footage | X Square Robot official WALL-OSS-1.0 introduction film, embedded on x2robot.com/blogs/wall-oss-1-en/ (2026-11-23) | X Square Robot | Official company demo footage (press/promo), original audio muted, credited "Video: X Square Robot (demos sped up)" |
+| Music: Protofunk | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Protofunk" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: X Square Robot blog + press release 2026-11-23 (55.1% zero-shot success, 312 tasks freely chosen by evaluators, no task-specific demonstrations or fine-tuning, code and weights to open-source soon); 42HOW Robotics, The Robotics Media.
