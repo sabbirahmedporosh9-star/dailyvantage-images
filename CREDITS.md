@@ -780,3 +780,22 @@ Facts: MacRumors 2026-11-21 (settlement terms, $61 estimate, Dec 21 deadline, Fe
 | Stock video (illustrative; generic speaker) | Pexels 6855615, 13441354, 6856842, 7551701, 6857117 | Pexels contributors | Pexels License |
 | Music: Raving Energy | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Raving Energy" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: Google Home Help "Google Assistant transition to Gemini for Home" and "Nest app transition to the Google Home app" (2026-11-20); The Verge 2026-11-20.
+
+### 2026-11-23 11am: 2026/11/23/1500-riemann-claude-proof-reel.mp4 (split_screen, 17.9s)
+| Asset | Source | Author | License |
+|---|---|---|---|
+| Stock video (illustrative; no real people from the story) | Pexels 6272048, 17144481, 6324555, 5377697, 6219899, 12893579 | Pexels contributors | Pexels License |
+| Music: Voxel Revolution | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Voxel Revolution" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Lean & Mathlib communities joint statement 2026-11-21 (leanprover-community.github.io/blog/posts/riemann-hypothesis/); BBC (c6pqr2g7w059o); AP 2026-11-20; MIT verification page (math.mit.edu/~drew/grh/).
+
+### 2026-11-23 11am: IG carousel 2026/11/23/1730-carousel-{1-cover,2-riemann,3-gta,4-siri,5-google,6-boom,7-follow}-final.jpg (7 slides)
+| Slide | Source | Author | License |
+|---|---|---|---|
+| 1 cover | Pexels video 17144481 (frame) | Pexels contributor | Pexels License |
+| 2 Riemann | Pexels video 6272048 (frame) | Pexels contributor | Pexels License |
+| 3 GTA VI | Pexels video 7774567 (frame) | Pexels contributor | Pexels License |
+| 4 Siri | Pexels video 6278948 (frame) | Pexels contributor | Pexels License |
+| 5 Google | Pexels video 6855615 (frame, generic speaker) | Pexels contributor | Pexels License |
+| 6 Boom | Pexels video 16403223 (frame, generic airliner engine, not Boom's) | Pexels contributor | Pexels License |
+| 7 follow | brand/logo.png | The Daily Vantage | own |
+Facts: Lean community 2026-11-21; Comcast 2026-11-20; MacRumors 2026-11-21; Google Home Help 2026-11-20; Aviation Week 2026-11-22 (Boom Sprint Core light-off Nov 21, Scholl "less than a 50% chance").
