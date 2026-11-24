@@ -850,3 +850,16 @@ Facts: Google DeepMind blog "Finding faster quantum algorithms with agents and f
 | Footage | Pexels videos 8128031, 7774741, 8128419, 8127922, 8128032 | Pexels contributors | Pexels License (free use), illustrative stock; no game footage |
 | Music: Enter the Party | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Enter the Party" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: PlayStation Blog (2026-11-23, Tim Turi) + Take-Two/Rockstar press release (2026-11-20); PC Gamer, Push Square.
+
+### 2026-11-24 11am: Reel 2026/11/24/1500-google-ai-tv-patent-reel.mp4 (meme_casual, 16.8s)
+| Item | Source | Author | License/basis |
+|---|---|---|---|
+| Footage | Pexels videos 7234088, 5813772, 6575890, 7328516, 6574525 | Pexels contributors | Pexels License (free use), illustrative stock |
+| Music: Monkeys Spinning Monkeys | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Google patent application US 2026/0370899 A1 (filed 2025-05-13, published 2026-11-19), reported by 404 Media, Gizmodo, Patentlyze (rejected by examiner; can be amended/appealed).
+
+### 2026-11-24 11am: IG carousel 2026/11/24/1730-carousel-*-final.jpg (7 slides) + Story 2026/11/24/1700-story-final.jpg
+| Item | Source | Author | License/basis |
+|---|---|---|---|
+| Photos | Frames from Pexels videos 6575890, 7234088, 8128031, 18069803 (Visualising AI / Google DeepMind), 10470834, 7233647 | Pexels contributors | Pexels License (free use), illustrative |
+Facts: Google patent (404 Media/Gizmodo), PlayStation Blog 2026-11-23, Google DeepMind blog 2026-11-23, Asus co-CEO S.Y. Hsu via The Verge 2026-11-23, ESPN Press Room 2026-11-23 (Super Bowl LXI in IMAX).
