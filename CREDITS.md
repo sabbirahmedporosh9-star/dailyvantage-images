@@ -876,3 +876,17 @@ Facts: Autoriteit Persoonsgegevens (Dutch DPA) statement 2026-11-19; BBC and Tec
 |---|---|---|---|---|
 | 1800-final.jpg | https://commons.wikimedia.org/wiki/File:Amazon_Spheres_from_6th_Avenue,_April_2020.jpg | SounderBruce | CC BY-SA 4.0 | 2020-04-09 |
 Facts: aboutamazon.com 2026-11-23; price ~$7.5B per people familiar (Bloomberg, CNBC, Calcalist), not confirmed by Amazon.
+
+### 2026-11-24 7pm: Reel 2026/11/25/0830-final.mp4 (news_ticker, 18.7s, Kagi Mail)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 10374892, 7822022, 5528007, 7657447, 7652166, 8266266 | Pexels contributors | Pexels License (free use), illustrative stock (generic laptops/phones, not Kagi Mail UI) |
+| Music | Pinball Spring | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: blog.kagi.com/kagi-mail-public-beta (2026-11-23); The Verge 2026-11-24.
+
+### 2026-11-24 7pm: Reel 2026/11/25/1130-final.mp4 (fast_cut_beat, 17.9s, Huawei Mate 90 Air)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 6974194, 15689201, 6278834, 17808481, 6612199, 7191511, 6665316 | Pexels contributors | Pexels License (free use), illustrative stock (generic smartphones, not the Mate 90 Air; no brand shown) |
+| Music | Cut and Run | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: consumer.huawei.com/cn/phones/mate90-air (CNY 4,999); Gizmochina + GSMArena 2026-11-24.
