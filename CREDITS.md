@@ -829,3 +829,24 @@ Facts: CrowdStrike IR press release 2026-11-23 (CrowdStrike to Acquire Zscaler, 
 | Footage | X Square Robot official WALL-OSS-1.0 introduction film, embedded on x2robot.com/blogs/wall-oss-1-en/ (2026-11-23) | X Square Robot | Official company demo footage (press/promo), original audio muted, credited "Video: X Square Robot (demos sped up)" |
 | Music: Protofunk | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Protofunk" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: X Square Robot blog + press release 2026-11-23 (55.1% zero-shot success, 312 tasks freely chosen by evaluators, no task-specific demonstrations or fine-tuning, code and weights to open-source soon); 42HOW Robotics, The Robotics Media.
+
+### 2026-11-24 7am: Reel 2026/11/24/1230-asus-8gb-ram-reel.mp4 (screen_ui, 17.6s)
+| Item | Source | Author | License/basis |
+|---|---|---|---|
+| Footage | Pexels videos 10470834, 10374892, 6755162, 8937982, 6799745 | Pexels contributors | Pexels License (free use), illustrative stock; generic UI, no Asus/Microsoft branding |
+| Music: Easy Lemon | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Easy Lemon" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Asus co-CEO S.Y. Hsu on Q3 2026 earnings call (Nov 12), reported by The Verge, VideoCardz, TechPowerUp (Nov 23).
+
+### 2026-11-24 7am: Reel 2026/11/24/1930-deepmind-quantum-agents-reel.mp4 (glitch_tech, 17.9s)
+| Item | Source | Author | License/basis |
+|---|---|---|---|
+| Footage | Pexels videos 18069803, 18069786 (Visualising AI project by Google DeepMind), 6755168, 7423951 | Pexels contributors / Google DeepMind Visualising AI | Pexels License (free use), illustrative |
+| Music: Floating Cities | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Floating Cities" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Google DeepMind blog "Finding faster quantum algorithms with agents and formal verification" (2026-11-23) + arXiv 2611.09822.
+
+### 2026-11-24 7am: Reel 2026/11/24/2130-gta6-39m-players-reel.mp4 (kinetic_text, 16.2s)
+| Item | Source | Author | License/basis |
+|---|---|---|---|
+| Footage | Pexels videos 8128031, 7774741, 8128419, 8127922, 8128032 | Pexels contributors | Pexels License (free use), illustrative stock; no game footage |
+| Music: Enter the Party | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Enter the Party" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: PlayStation Blog (2026-11-23, Tim Turi) + Take-Two/Rockstar press release (2026-11-20); PC Gamer, Push Square.
