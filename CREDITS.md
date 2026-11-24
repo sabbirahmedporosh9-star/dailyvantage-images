@@ -863,3 +863,16 @@ Facts: Google patent application US 2026/0370899 A1 (filed 2025-05-13, published
 |---|---|---|---|
 | Photos | Frames from Pexels videos 6575890, 7234088, 8128031, 18069803 (Visualising AI / Google DeepMind), 10470834, 7233647 | Pexels contributors | Pexels License (free use), illustrative |
 Facts: Google patent (404 Media/Gizmodo), PlayStation Blog 2026-11-23, Google DeepMind blog 2026-11-23, Asus co-CEO S.Y. Hsu via The Verge 2026-11-23, ESPN Press Room 2026-11-23 (Super Bowl LXI in IMAX).
+
+### 2026-11-24 3pm: Reel 2026/11/24/2100-final.mp4 (countdown_list, 16.6s, AI camera glasses)
+| Item | Source | Author | License/basis |
+|---|---|---|---|
+| Footage | Pexels videos 8328602, 6531400, 10531835, 5377683 | Pexels contributors | Pexels License (free use), illustrative stock (generic eyeglasses, no brand) |
+| Music: Sneaky Snitch | incompetech.com | Kevin MacLeod | CC BY 4.0 ("Sneaky Snitch" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Autoriteit Persoonsgegevens (Dutch DPA) statement 2026-11-19; BBC and TechCrunch 2026-11-23.
+
+### 2026-11-24 3pm: FB photo 2026/11/24/1800-final.jpg (Amazon / Decart)
+| Image | Commons file page | Author | License | Photo date |
+|---|---|---|---|---|
+| 1800-final.jpg | https://commons.wikimedia.org/wiki/File:Amazon_Spheres_from_6th_Avenue,_April_2020.jpg | SounderBruce | CC BY-SA 4.0 | 2020-04-09 |
+Facts: aboutamazon.com 2026-11-23; price ~$7.5B per people familiar (Bloomberg, CNBC, Calcalist), not confirmed by Amazon.
