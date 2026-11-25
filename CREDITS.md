@@ -890,3 +890,24 @@ Facts: blog.kagi.com/kagi-mail-public-beta (2026-11-23); The Verge 2026-11-24.
 | Footage | Pexels videos 6974194, 15689201, 6278834, 17808481, 6612199, 7191511, 6665316 | Pexels contributors | Pexels License (free use), illustrative stock (generic smartphones, not the Mate 90 Air; no brand shown) |
 | Music | Cut and Run | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
 Facts: consumer.huawei.com/cn/phones/mate90-air (CNY 4,999); Gizmochina + GSMArena 2026-11-24.
+
+### 2026-11-25 7am: Reel 2026/11/25/1330-final.mp4 (kinetic_text, 18.3s, TIDAL AI music ban)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 12330935, 7217603, 8197877, 6868355, 12330933, 8003613, 8197848 | Pexels contributors | Pexels License (free use), illustrative stock (studios/headphones, no brand shown) |
+| Music | Funk Game Loop | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: support.tidal.com AI Policy (updated 2026-11-24); TechCrunch, The Verge, Rolling Stone 2026-11-24.
+
+### 2026-11-25 7am: Reel 2026/11/25/1930-final.mp4 (split_screen, 17.4s, Nuro/Lucid/Uber driverless testing)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | "Lucid-Nuro-Uber Robotaxi broll.mp4" from Nuro media kit (nuro.ai/media-kit) | Nuro / Lucid / Uber | Official press b-roll provided for media use; muted; test-track footage, not presented as Bay Area driverless footage |
+| Music | Rhinoceros | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: nuro.ai blog 2026-11-24; The Verge, TechCrunch, Axios 2026-11-24.
+
+### 2026-11-25 7am: Reel 2026/11/25/2130-final.mp4 (screen_ui, 18.1s, Meta Muse in Instagram DMs)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 7362704, 10374888, 7279035, 4546864, 17512949, 7392948, 19798261 | Pexels contributors | Pexels License (free use), illustrative stock (generic phones, not the Instagram/Muse UI) |
+| Music | Wallpaper | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: TechCrunch + MacRumors 2026-11-24.
