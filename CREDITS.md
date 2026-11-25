@@ -938,3 +938,23 @@ Facts: spacex.com/launches/ussf266 + Spaceflight Now 2026-11-24.
 | Footage | https://x.com/adcock_brett/status/2124963178916524276 | Figure AI / Brett Adcock (CEO) | Official company demo video posted by Figure's CEO, original audio muted, partly sped up, credited "Video: Figure AI / Brett Adcock" |
 | Music | Bit Shift | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
 Facts: Adcock X post 2026-11-23; Humanoids Daily 2026-11-24; Bots n' Beans 2026-11-24.
+
+### 2026-11-25 7pm: Reel 2026/11/25/2300-final.mp4 (EA FC 27 AI John Motson, zoom_reveal 17.5s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 7774567, 12330883, 6077715, 12330877, 5155689, 10329081, 8128417 | Pexels contributors | Pexels License (illustrative stock) |
+| Music | Dreamy Flashback | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: EA SPORTS FC 27 news "John Motson Tribute" 2026-11-25; BBC 2026-11-25; VGC 2026-11-25.
+
+### 2026-11-25 7pm: Reel 2026/11/26/1200-final.mp4 (Australia Digital Duty of Care, glitch_tech 16.9s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 15172397, 10374885, 5377697, 15689201, 5545115, 6962182 | Pexels contributors | Pexels License (illustrative stock) |
+| Music | Voxel Revolution | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: Minister for Communications Anika Wells media release 2026-11-25; AP 2026-11-25.
+
+### 2026-11-25 7pm: FB photo 2026/11/26/1030-final.jpg (Amazon Autos UK)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Photo | https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_1X7A0847.jpg | Alexander-93 | CC BY-SA 4.0 (cropped, text overlay) |
+Facts: About Amazon UK 2026-11-25; The Verge 2026-11-25.
