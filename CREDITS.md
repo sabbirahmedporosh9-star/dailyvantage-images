@@ -911,3 +911,16 @@ Facts: nuro.ai blog 2026-11-24; The Verge, TechCrunch, Axios 2026-11-24.
 | Footage | Pexels videos 7362704, 10374888, 7279035, 4546864, 17512949, 7392948, 19798261 | Pexels contributors | Pexels License (free use), illustrative stock (generic phones, not the Instagram/Muse UI) |
 | Music | Wallpaper | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
 Facts: TechCrunch + MacRumors 2026-11-24.
+
+### 2026-11-25 11am: IG carousel 2026/11/25/1700-carousel-1..7-*-final.jpg (Today in tech & viral)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Slide backgrounds | Pexels video frames 7914842 (cover), 3253077 (Threads), 6958041 (Pinterest), 8774526 (trackpad), 7914827 (Samsung), 11274330 (Ladybird) | Pexels contributors | Pexels License (free use), illustrative stock (no product shown) |
+| Logo / end card | The Daily Vantage | own | own |
+Facts: TechCrunch + The Verge 2026-11-24 (Threads iPad/cashtags); Pinterest Newsroom 2026-11-23 + TechCrunch 2026-11-24; github.com/os6/nospeaker + MacRumors 2026-11-23 + The Verge; Samsung Newsroom (global + US) 2026-11-23; ladybird.org/posts/alpha 2026-11-23 + heise 2026-11-24.
+
+### 2026-11-25 11am: FB photo 2026/11/25/1800-final.jpg (Huawei convicted in US)
+| Image | Commons file page | Author | License | Photo date |
+|---|---|---|---|---|
+| 1800-final.jpg | https://commons.wikimedia.org/wiki/File:HuaweiCanada14.jpg | Raysonho @ Open Grid Scheduler / Scalable Grid Engine | CC0 | 2020-01-08 |
+Facts: justice.gov OPA press release 2026-11-24; BBC + AP 2026-11-24.
