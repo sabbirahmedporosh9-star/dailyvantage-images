@@ -924,3 +924,17 @@ Facts: TechCrunch + The Verge 2026-11-24 (Threads iPad/cashtags); Pinterest News
 |---|---|---|---|---|
 | 1800-final.jpg | https://commons.wikimedia.org/wiki/File:HuaweiCanada14.jpg | Raysonho @ Open Grid Scheduler / Scalable Grid Engine | CC0 | 2020-01-08 |
 Facts: justice.gov OPA press release 2026-11-24; BBC + AP 2026-11-24.
+
+### 2026-11-25 3pm: Reel 2026/11/25/1600-final.mp4 (Falcon 9 B1081 29th flight, cablgram_clip 28.2s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Liftoff + landing footage | https://x.com/SpaceX/status/2125260653560562086 , https://x.com/SpaceX/status/2125263043244290435 | SpaceX | Official SpaceX launch footage (company media), original audio muted, credited "Video: SpaceX" |
+| Music | Severe Tire Damage | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: spacex.com/launches/ussf266 + Spaceflight Now 2026-11-24.
+
+### 2026-11-25 3pm: Reel 2026/11/25/1900-final.mp4 (Figure 03 apple / moved table, cablgram_clip 28.1s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | https://x.com/adcock_brett/status/2124963178916524276 | Figure AI / Brett Adcock (CEO) | Official company demo video posted by Figure's CEO, original audio muted, partly sped up, credited "Video: Figure AI / Brett Adcock" |
+| Music | Bit Shift | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: Adcock X post 2026-11-23; Humanoids Daily 2026-11-24; Bots n' Beans 2026-11-24.
