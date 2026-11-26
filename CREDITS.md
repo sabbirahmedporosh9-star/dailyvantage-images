@@ -1010,3 +1010,16 @@ Facts: Relativity Space X post + thread 2026-11-25 (first stage mated; largest i
 |---|---|---|---|---|
 | 0830-final.jpg | https://commons.wikimedia.org/wiki/File:Neuralink_Robot.jpg | Leijurv | CC BY-SA 4.0 | 2020-08-28 |
 Facts: neuralink.com/updates "Neuralink Receives FDA Approval to Launch LINK Pivotal Study" 2026-11-25; MobiHealthNews 2026-11-25; Engadget 2026-11-25.
+
+### 2026-11-26 7pm: Reel 2026/11/26/2300-final.mp4 (Anthropic starts paying authors from $1.5B settlement, news_ticker 17.5s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 6549526, 6279420, 6549980, 7026678, 7534961, 20204723 | Pexels contributors | Pexels License (free use), illustrative stock |
+| Music | Newer Wave | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: The Verge 2026-11-26 ("Anthropic has started paying out its copyright settlement to authors"); Authors Guild settlement update 2026-11-23; anthropiccopyrightsettlement.com; Courtney Milan post 2026-11-25.
+
+### 2026-11-26 7pm: FB photo 2026/11/27/1330-final.jpg (Cybertruck fastest-selling used truck)
+| Image | Commons file page | Author | License | Photo date |
+|---|---|---|---|---|
+| 1330-final.jpg | https://commons.wikimedia.org/wiki/File:Tesla_Cybertruck_(2024).jpg | Amaury Laporte | CC BY 2.0 | 2024-07-20 |
+Facts: iSeeCars study 2026-11-20; TechCrunch 2026-11-25; Autoweek; Motor1.
