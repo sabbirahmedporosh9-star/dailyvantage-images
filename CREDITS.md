@@ -958,3 +958,27 @@ Facts: Minister for Communications Anika Wells media release 2026-11-25; AP 2026
 |---|---|---|---|
 | Photo | https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_1X7A0847.jpg | Alexander-93 | CC BY-SA 4.0 (cropped, text overlay) |
 Facts: About Amazon UK 2026-11-25; The Verge 2026-11-25.
+
+## 2026-11-26
+
+### 2026-11-26 7am: Reel 2026/11/26/1430-final.mp4 (WhatsApp scheduled messages, meme_casual 15.5s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 7362700, 13929693, 6586070, 7690126, 6000606, 6570513 | Pexels contributors | Pexels License (illustrative stock) |
+| Music | Pixel Peeker Polka - faster | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: WhatsApp Blog "Say it at the right time with scheduled messages" 2026-11-25; TechCrunch 2026-11-25; The Verge 2026-11-25; 9to5Google 2026-11-25.
+
+### 2026-11-26 7am: Reel 2026/11/26/1900-final.mp4 (ESA Hera finds DART crater, kinetic_text 17.9s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | ESA Hera release 2026-11-25 media: AFC "Dimorphos orbiting Didymos, seen from the south" (real images), TIRI "Dimorphos orbiting around Didymos seen by TIRI" (ESA/JAXA real thermal images), "Hera shown surveying the Dimorphos asteroid" (animation, labelled) | ESA (TIRI: JAXA) | Official ESA press-release imagery, credited "ESA", labelled real vs animation, no modification beyond scaling/cropping |
+| Footage | Pexels video 14209304 | Pexels contributor | Pexels License (illustrative stock) |
+| Music | Ouroboros | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: ESA "Hera reveals stadium-sized asteroid crater from spacecraft impact" 2026-11-25; Ars Technica 2026-11-25; BBC 2026-11-25; The Planetary Society 2026-11-25.
+
+### 2026-11-26 7am: Reel 2026/11/26/2130-final.mp4 (FCC approves SpaceX Starmind, countdown_list 18.3s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 20349219, 15439746, 16829181, 18308552, 20349276, 14922976 | Pexels contributors | Pexels License (illustrative stock) |
+| Music | Galactic Rap | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: Ars Technica 2026-11-25 (FCC order); The Verge 2026-11-25.
