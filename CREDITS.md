@@ -995,3 +995,18 @@ Facts: claude.com "Turn artifacts into Mac and Windows apps" + Claude Help Cente
 |---|---|---|---|---|
 | 1800-final.jpg | https://commons.wikimedia.org/wiki/File:Salon_Shein_w_Galerii_M%C5%82ociny_w_Warszawie.jpg | DMCGN | CC BY 4.0 | 2024-05-20 |
 Facts: CNBC 2026-11-24; FTC proposed stipulated order (search.ftc.gov SHEIN-ProposedStipulatedOrder.pdf); AP 2026-11-24.
+
+## 2026-11-27
+
+### 2026-11-26 3pm: Reel 2026/11/27/0930-final.mp4 (Relativity Terran R first stage mated, cablgram_clip 27.1s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Official Relativity Space post https://x.com/relativityspace/status/2125689450818933079 (2026-11-25), 0.4-27.5s, cropped to vertical, no speed change, source had no audio | Relativity Space | Official company release footage, credited "Video: Relativity Space", no modification beyond scaling/cropping and text overlay |
+| Music | Exit the Premises | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: Relativity Space X post + thread 2026-11-25 (first stage mated; largest integrated piece of hardware in the program; next stop Stennis; 13 Aeon R engines, >3.4M lbf at liftoff; 8 friction-stir-welded tank barrels); Relativity "October 2026 Company Update" press release 2026-11-16.
+
+### 2026-11-26 3pm: FB photo 2026/11/27/0830-final.jpg (Neuralink FDA approval for LINK Pivotal Study)
+| Image | Commons file page | Author | License | Photo date |
+|---|---|---|---|---|
+| 0830-final.jpg | https://commons.wikimedia.org/wiki/File:Neuralink_Robot.jpg | Leijurv | CC BY-SA 4.0 | 2020-08-28 |
+Facts: neuralink.com/updates "Neuralink Receives FDA Approval to Launch LINK Pivotal Study" 2026-11-25; MobiHealthNews 2026-11-25; Engadget 2026-11-25.
