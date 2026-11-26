@@ -982,3 +982,16 @@ Facts: ESA "Hera reveals stadium-sized asteroid crater from spacecraft impact" 2
 | Footage | Pexels videos 20349219, 15439746, 16829181, 18308552, 20349276, 14922976 | Pexels contributors | Pexels License (illustrative stock) |
 | Music | Galactic Rap | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
 Facts: Ars Technica 2026-11-25 (FCC order); The Verge 2026-11-25.
+
+### 2026-11-26 11am: IG carousel 2026/11/26/1700-carousel-1..6-*-final.jpg (Today in tech & viral)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Slide backgrounds | Pexels video frames 10374886 (cover), 7989667 (Claude), 12893579 (ChatGPT/Codex), 5377683 (1Password), 12976044 (watch) | Pexels contributors | Pexels License (free use), illustrative stock (no product shown) |
+| Logo / end card | The Daily Vantage | own | own |
+Facts: claude.com "Turn artifacts into Mac and Windows apps" + Claude Help Center + MacRumors 2026-11-25; The Verge 2026-11-25 + OpenAI Help Center (ChatGPT/Codex shared limits); 1password.com blog 2026-11-25 + TechCrunch + BleepingComputer 2026-11-25; The Verge + Yahoo Tech + Yanko Design 2026-11-25 (Strange Inventions watch).
+
+### 2026-11-26 11am: FB photo 2026/11/26/1800-final.jpg (Shein $100M FTC settlement)
+| Image | Commons file page | Author | License | Photo date |
+|---|---|---|---|---|
+| 1800-final.jpg | https://commons.wikimedia.org/wiki/File:Salon_Shein_w_Galerii_M%C5%82ociny_w_Warszawie.jpg | DMCGN | CC BY 4.0 | 2024-05-20 |
+Facts: CNBC 2026-11-24; FTC proposed stipulated order (search.ftc.gov SHEIN-ProposedStipulatedOrder.pdf); AP 2026-11-24.
