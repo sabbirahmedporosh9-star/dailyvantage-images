@@ -1069,3 +1069,18 @@ Facts: rocketlabcorp.com mission page "Night Owls Never Sleep" + Rocket Lab rele
 |---|---|---|---|
 | Photo | https://commons.wikimedia.org/wiki/File:Apple_Store_5th_Avenue_2024.jpg (2024-12-05) | Seasider53 | CC BY 4.0 |
 Facts: Counterpoint Research 2026-11-26 (US Market Monitor Q3 2026) + 9to5Mac 2026-11-26.
+
+### 2026-11-27 7pm: Reel 2026/11/27/2300-final.mp4 (Samay Raina first creator to 1M YouTube channel members, zoom_reveal 17.2s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 7226924, 12330883, 7233647, 17781721, 8516543, 8120203 (generic stock; nobody shown is Samay Raina) | Pexels contributors | Pexels License |
+| Music | Enter the Party | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: Google India blog "No latent talent here: Samay Raina becomes the first creator globally to cross 1 million channel members" (The YouTube Team) + Business Standard 2026-11-27.
+
+### 2026-11-27 7pm: Reel 2026/11/27/0930-nov28-final.mp4 (Google Play to show trader developers' phone + address publicly from March 1, 2027, split_screen 16.6s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 6962433, 8293301, 17518183, 8292927, 6962182, 7362695 | Pexels contributors | Pexels License |
+| Music | Sneaky Snitch | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: The Verge 2026-11-26 "Android app developers will soon have to share their address publicly" + Google Play Console Help "Trader status declaration".
+
