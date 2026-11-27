@@ -1043,3 +1043,16 @@ Facts: Bloomberg 2026-11-26 (people familiar); Reuters 2026-11-26 (SAP declined 
 | Footage | Pexels videos 12330877, 6120121, 12330879, 8370540, 4985366, 5637306 (no people shown as the streamer) | Pexels contributors | Pexels License (free use), illustrative stock |
 | Music | Hitman | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
 Facts: US Attorney's Office SDFL press release 2026-11-24 (case 26-cr-60089); CBS12 2026-11-24; NBC 6 South Florida 2026-11-25; Engadget/Aftermath 2026-11-26.
+
+### 2026-11-27 11am: IG carousel 2026/11/27/1700-carousel-1..6-*-final.jpg (Today in tech & world, 4 stories)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Slide backgrounds | Pexels video frames 1085656 (cover), 863860 (Tesla), 4267433 (Rockstar), 8370138 (Binance), 7140928 (Canada) | Pexels contributors | Pexels License (free use), illustrative stock |
+Facts: European Commission draft TCMV agenda 2026-11-24 + Reuters 2026-11-26 + Electrek 2026-11-25; The Verge 2026-11-26 + Vertical Slice + PC Gamer (Rockstar IWGB vote 25%/75%); Reuters via CNA 2026-11-26 (Binance); Canada.ca ISED release 2026-11-26 + AI Compute Access Fund program guide + BetaKit.
+
+### 2026-11-27 11am: Reel 2026/11/27/2130-final.mp4 (OpenAI GPT-6.2 billing fix: limits hit 40% faster, glitch_tech 17.7s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 5377697, 6623022, 8472307, 6914687, 8347241, 8266177 | Pexels contributors | Pexels License (free use), illustrative stock |
+| Music | Volatile Reaction | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: Thibault Sottiaux (OpenAI) post on X 2026-11-26; TechRadar 2026-11-26; The Next Web; Decrypt; The Decoder; TechCrunch (Chat + Work shared allowance, December).
