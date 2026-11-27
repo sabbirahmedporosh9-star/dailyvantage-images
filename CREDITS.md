@@ -1023,3 +1023,23 @@ Facts: The Verge 2026-11-26 ("Anthropic has started paying out its copyright set
 |---|---|---|---|---|
 | 1330-final.jpg | https://commons.wikimedia.org/wiki/File:Tesla_Cybertruck_(2024).jpg | Amaury Laporte | CC BY 2.0 | 2024-07-20 |
 Facts: iSeeCars study 2026-11-20; TechCrunch 2026-11-25; Autoweek; Motor1.
+
+### 2026-11-27 7am: Reel 2026/11/27/1430-final.mp4 (X adds parental controls for teens, screen_ui 17.95s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 10374888, 7822022, 15689201, 7279035, 10374885, 7362704 (adult hands/phones) | Pexels contributors | Pexels License (free use), illustrative stock; UI chrome is generic, not X's app |
+| Music | Digital Lemonade | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: X @Safety "Parental Controls" article 2026-11-25; The Verge 2026-11-26; TechCrunch 2026-11-26; Engadget 2026-11-26.
+
+### 2026-11-27 7am: FB photo 2026/11/27/1730-final.jpg (SAP weighs cutting at least 10,000 jobs)
+| Image | Commons file page | Author | License | Photo date |
+|---|---|---|---|---|
+| 1730-final.jpg | https://commons.wikimedia.org/wiki/File:SAPBerlin.jpg | Lear 21 | CC BY-SA 4.0 | 2021-09-21 |
+Facts: Bloomberg 2026-11-26 (people familiar); Reuters 2026-11-26 (SAP declined to comment); The Next Web 2026-11-26; Ctech 2026-11-26.
+
+### 2026-11-27 7am: Reel 2026/11/27/1900-final.mp4 (AI voice clone of streamer N3on in $260K crypto fraud, fast_cut_beat 16.9s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 12330877, 6120121, 12330879, 8370540, 4985366, 5637306 (no people shown as the streamer) | Pexels contributors | Pexels License (free use), illustrative stock |
+| Music | Hitman | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: US Attorney's Office SDFL press release 2026-11-24 (case 26-cr-60089); CBS12 2026-11-24; NBC 6 South Florida 2026-11-25; Engadget/Aftermath 2026-11-26.
