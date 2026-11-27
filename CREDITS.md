@@ -1056,3 +1056,16 @@ Facts: European Commission draft TCMV agenda 2026-11-24 + Reuters 2026-11-26 + E
 | Footage | Pexels videos 5377697, 6623022, 8472307, 6914687, 8347241, 8266177 | Pexels contributors | Pexels License (free use), illustrative stock |
 | Music | Volatile Reaction | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
 Facts: Thibault Sottiaux (OpenAI) post on X 2026-11-26; TechRadar 2026-11-26; The Next Web; Decrypt; The Decoder; TechCrunch (Chat + Work shared allowance, December).
+
+### 2026-11-27 3pm: Reel 2026/11/27/1815-final.mp4 (Rocket Lab 101st Electron "Night Owls Never Sleep", cablgram_clip 28.5s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Official Rocket Lab launch highlights video, https://x.com/RocketLab/status/2126124723688100180 (2026-11-27), original audio muted | Rocket Lab | Official company launch footage, credited "Video: Rocket Lab" (same basis as earlier official-footage clip Reels) |
+| Music | Floating Cities | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: rocketlabcorp.com mission page "Night Owls Never Sleep" + Rocket Lab release "MISSION SUCCESS: Rocket Lab Launches 101st Electron Mission" (GlobeNewswire 2026-11-27) + Synspective press release 2026-11-27.
+
+### 2026-11-27 3pm: FB photo 2026/11/27/1630-final.jpg (Apple 57% of US smartphone shipments, Q3 2026)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Photo | https://commons.wikimedia.org/wiki/File:Apple_Store_5th_Avenue_2024.jpg (2024-12-05) | Seasider53 | CC BY 4.0 |
+Facts: Counterpoint Research 2026-11-26 (US Market Monitor Q3 2026) + 9to5Mac 2026-11-26.
