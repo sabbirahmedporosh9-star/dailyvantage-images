@@ -1126,3 +1126,10 @@ Facts: Meta Newsroom 2026-11-27 "Instagram for TV Comes to India"; Anthropic "Mi
 | Footage | Official Unitree Robotics launch video, x.com/UnitreeRobotics/status/2126265784045584442 (2026-11-27), original audio muted | Unitree Robotics | Official company footage, credited on screen ("Video: Unitree Robotics") |
 | Music | Voltaic | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
 Facts: Unitree official post 2026-11-27; AlphaSignal 2026-11-27; ZeroGantry 2026-11-27 (claims attributed to Unitree).
+
+### 2026-11-28 3pm: Reel 2026/11/28/2300-final.mp4 (XPENG IRON humanoid chats with fans at AI Day, cablgram_clip 25.0s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Official XPENG video "Hello, IRON!", x.com/XPENG_Global/status/2126227352635973818 (2026-11-27), original audio muted | XPENG | Official company footage, credited on screen ("Video: XPENG") |
+| Music | Monkeys Spinning Monkeys | Kevin MacLeod (incompetech.com) | CC BY 4.0 ("Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: XPENG pressroom 2026-11-25 "XPENG Unveils Turing Physical AI Architecture and IRON Robot"; XPENG release via GlobeNewswire 2026-11-26; CnEVPost 2026-11-25; XPENG official X post 2026-11-27.
