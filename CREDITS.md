@@ -1084,3 +1084,32 @@ Facts: Google India blog "No latent talent here: Samay Raina becomes the first c
 | Music | Sneaky Snitch | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
 Facts: The Verge 2026-11-26 "Android app developers will soon have to share their address publicly" + Google Play Console Help "Trader status declaration".
 
+
+## 2026-11-28
+
+### 2026-11-28 7am: Reel 2026/11/28/1230-final.mp4 (BYD Whale 559-mile minivan, countdown_list 15.9s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 13229471, 9790187, 16100217, 9790215, 15144890 | Pexels contributors | Pexels License (illustrative stock; not the BYD Whale) |
+| Music | Industrial Revolution | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: BYD Korea release 2026-11-27; CnEVPost 2026-11-27; Electrek 2026-11-27; The Verge 2026-11-28.
+
+### 2026-11-28 7am: Photo 2026/11/28/1700-final.jpg (ETH Zurich InvisiSpeech silent-speech tooth sensor, FB)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Photo | Wikimedia Commons "Hauptgebäude der ETH Zürich and Polyterrasse 2022-09-24 01.jpg" | Leonhard Lenz | CC0 |
+Facts: ETH Zurich News "A gadget straight out of a James Bond film" 2026-11-26; UIST 2026 paper (ACM DL); The Verge 2026-11-27.
+
+### 2026-11-28 7am: Reel 2026/11/28/1930-final.mp4 (OpenAI countersues Apple, news_ticker 17.4s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 6101361, 3946211, 6754823, 6324549, 6962838 | Pexels contributors | Pexels License (illustrative stock) |
+| Music | Rhinoceros | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: Reuters 2026-11-27 "OpenAI countersues Apple for stealing trade secrets".
+
+### 2026-11-28 7am: Reel 2026/11/28/2200-final.mp4 (WhatsApp in-app travel eSIMs, kinetic_text 16.6s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 18934517, 8044816, 17551136, 8044788, 11292266 | Pexels contributors | Pexels License (illustrative stock) |
+| Music | Pinball Spring | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: WhatsApp Blog "Stay Connected on WhatsApp When You Travel" 2026-11-26; Business Standard 2026-11-27; 9to5Google 2026-11-27; Engadget 2026-11-27.
