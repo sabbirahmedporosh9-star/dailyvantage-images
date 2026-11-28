@@ -1113,3 +1113,16 @@ Facts: Reuters 2026-11-27 "OpenAI countersues Apple for stealing trade secrets".
 | Footage | Pexels videos 18934517, 8044816, 17551136, 8044788, 11292266 | Pexels contributors | Pexels License (illustrative stock) |
 | Music | Pinball Spring | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
 Facts: WhatsApp Blog "Stay Connected on WhatsApp When You Travel" 2026-11-26; Business Standard 2026-11-27; 9to5Google 2026-11-27; Engadget 2026-11-27.
+
+### 2026-11-28 11am: IG carousel 2026/11/28/1630-carousel-1..6-*-final.jpg (Today in tech: Instagram for TV India / Anthropic Rust API / pCloud Pass / Silksong Sea of Sorrow)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Photos (video frames) | Pexels videos 2887463, 7184588, 2278095, 10241357, 4523105 | Pexels contributors | Pexels License (illustrative stock) |
+Facts: Meta Newsroom 2026-11-27 "Instagram for TV Comes to India"; Anthropic "Migrating our Messages API to Rust" 2026-11-25 + InfoWorld 2026-11-25; BleepingComputer 2026-11-27 "pCloud confirms password manager hack"; Team Cherry blog "It's Cherry Time!" 2026-11-27 + Gematsu/GameSpot/The Verge 2026-11-27.
+
+### 2026-11-28 11am: Reel 2026/11/28/1830-final.mp4 (Unitree Embodied Avatar V3.0 Guardian mocap mirroring, cablgram_clip 24.1s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Official Unitree Robotics launch video, x.com/UnitreeRobotics/status/2126265784045584442 (2026-11-27), original audio muted | Unitree Robotics | Official company footage, credited on screen ("Video: Unitree Robotics") |
+| Music | Voltaic | Kevin MacLeod (incompetech.com) | CC BY 4.0 |
+Facts: Unitree official post 2026-11-27; AlphaSignal 2026-11-27; ZeroGantry 2026-11-27 (claims attributed to Unitree).
