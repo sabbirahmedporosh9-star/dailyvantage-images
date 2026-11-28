@@ -1133,3 +1133,16 @@ Facts: Unitree official post 2026-11-27; AlphaSignal 2026-11-27; ZeroGantry 2026
 | Footage | Official XPENG video "Hello, IRON!", x.com/XPENG_Global/status/2126227352635973818 (2026-11-27), original audio muted | XPENG | Official company footage, credited on screen ("Video: XPENG") |
 | Music | Monkeys Spinning Monkeys | Kevin MacLeod (incompetech.com) | CC BY 4.0 ("Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
 Facts: XPENG pressroom 2026-11-25 "XPENG Unveils Turing Physical AI Architecture and IRON Robot"; XPENG release via GlobeNewswire 2026-11-26; CnEVPost 2026-11-25; XPENG official X post 2026-11-27.
+
+### 2026-11-28 7pm: Reel 2026/11/28/0930-final.mp4 (Musk says Google wants more SpaceX compute, meme_casual 18.9s)
+| Item | Source | Author | License |
+|---|---|---|---|
+| Footage | Pexels videos 5028622, 6266251, 6755168, 5377697, 20349219 | Pexels contributors | Pexels License (illustrative stock) |
+| Music | Funky Chunk | Kevin MacLeod (incompetech.com) | CC BY 4.0 ("Funky Chunk" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0) |
+Facts: Reuters via CNBC 2026-11-28 "Musk says Google wants to rent more computing capacity from SpaceX".
+
+### 2026-11-28 7pm: FB photo 2026/11/28/1200-final.jpg (Todoist and 1Password data breaches)
+| Image | Commons file page | Author | License | Photo date |
+|---|---|---|---|---|
+| 1200-final.jpg | https://commons.wikimedia.org/wiki/File:Secured_laptop.jpg | Richard Nowell | CC BY-SA 4.0 | 2022-10-22 |
+Facts: Todoist Help "Security incident in November 2026" (updated 2026-11-26); TechCrunch 2026-11-25; 1Password blog 2026-11-25; The Verge 2026-11-25.
